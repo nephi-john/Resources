@@ -1,0 +1,73 @@
+id|url|title|visit_count|typed_count|last_visit_time|hidden|date_time
+1|https://jschronology.byustudies.byu.edu/js-events|"Events | Joseph Smith Chronology"|1|0|1.33008067852606E+016|0|2022-06-27 08:33:05
+2|https://byustudies.byu.edu/article/joseph-smiths-boyhood-operation-an-1813-surgical-success/|Joseph Smith's Boyhood Operation - BYU Studies|9|0|1.33008068386241E+016|0|2022-06-27 08:33:58
+3|https://byustudies.byu.edu/wp-content/uploads/2020/02/21.2WirthlinJoseph-141f8bd3-03e5-486b-9e96-1933a04cc33b.pdf|21.2WirthlinJoseph-141f8bd3-03e5-486b-9e96-1933a04cc33b.pdf|1|0|1.33008068555083E+016|0|2022-06-27 08:34:15
+4|https://www.josephsmithpapers.org/event/jss-leg-surgery|JS’s Leg Surgery – Details|1|0|1.33008068684346E+016|0|2022-06-27 08:34:28
+5|https://www.google.com/search?q=typhoid+fever+symptoms+cut+leg&client=firefox-b-1-d&channel=tus5&ei=baC5YtW8LN6dkPIPlYaMiAQ&ved=0ahUKEwiVp8mBz834AhXeDkQIHRUDA0EQ4dUDCA0&uact=5&oq=typhoid+fever+symptoms+cut+leg&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABOgcIABBHELADOgUIABCABDoKCAAQHhAPEBYQCjoICAAQHhAPEBY6BggAEB4QFjoFCAAQhgM6BQghEKsCOggIIRAeEBYQHUoECEEYAEoECEYYAFCcFFjxJWCvLGgBcAF4AIABlwGIAaEIkgEDMC44mAEAoAEByAEIwAEB&sclient=gws-wiz-serp|typhoid fever symptoms cut leg - Google Search|2|0|1.33008068837778E+016|0|2022-06-27 08:34:43
+6|https://www.google.com/search?channel=tus5&client=firefox-b-1-d&q=bone+typhoid+symptoms|bone typhoid symptoms - Google Search|2|0|1.33008068955863E+016|0|2022-06-27 08:34:55
+7|https://www.sciencedirect.com/science/article/abs/pii/S0002961039908846|Typhoid and paratyphoid osteomyelitis - ScienceDirect|1|0|1.3300806909818E+016|0|2022-06-27 08:35:09
+8|https://www.google.com/search?channel=tus5&client=firefox-b-1-d&q=Serologic|Serologic - Google Search|2|0|1.33008069201306E+016|0|2022-06-27 08:35:20
+9|https://www.google.com/search?channel=tus5&client=firefox-b-1-d&q=diaphysis|diaphysis - Google Search|2|0|1.3300806937509E+016|0|2022-06-27 08:35:37
+10|https://search.brave.com/search?q=wiki+joseph+smith&source=desktop|wiki joseph smith - Brave Search|1|0|1.33008069479727E+016|0|2022-06-27 08:35:47
+11|https://en.wikipedia.org/wiki/Joseph_Smith|Joseph Smith - Wikipedia|1|0|1.3300806960743E+016|0|2022-06-27 08:36:00
+12|https://en.wikipedia.org/wiki/Death_of_Joseph_Smith|Death of Joseph Smith - Wikipedia|1|0|1.3300806968953E+016|0|2022-06-27 08:36:08
+13|https://search.brave.com/search?q=lyrics+praise+to+the+man&source=desktop|lyrics praise to the man - Brave Search|1|0|1.33008069902687E+016|0|2022-06-27 08:36:30
+14|https://en.wikipedia.org/wiki/Praise_to_the_Man|Praise to the Man - Wikipedia|1|0|1.3300806998179E+016|0|2022-06-27 08:36:38
+15|https://en.wikipedia.org/wiki/Scotland_the_Brave|Scotland the Brave - Wikipedia|1|0|1.33008070946762E+016|0|2022-06-27 08:38:14
+16|https://search.brave.com/search?q=alexander+ruthven&source=desktop|alexander ruthven - Brave Search|1|0|1.33008071439163E+016|0|2022-06-27 08:39:03
+17|https://en.wikipedia.org/wiki/Alexander_Ruthven|Alexander Ruthven - Wikipedia|1|0|1.33008071503124E+016|0|2022-06-27 08:39:10
+18|https://search.brave.com/search?q=lds+ancestry+com&source=desktop|lds ancestry com - Brave Search|1|0|1.33008071841227E+016|0|2022-06-27 08:39:44
+19|https://www.familysearch.org/en/blog/all-latter-day-saint-members-including-youth-can-now-get-free-access-to-familysearch-partner-websites|All Latter-day Saint Members, Including Youth, Can Now Get Free Access to FamilySearch Partner Websites|1|0|1.33008071889645E+016|0|2022-06-27 08:39:48
+59|https://www.ancestry.com/search/?name=Alexander_Ruthven&death=1600|Alexander Ruthven - Ancestry.com|2|0|1.33008076161104E+016|0|2022-06-27 08:46:56
+63|https://www.findagrave.com/memorial/25648107/alexander-ruthven|Sir Alexander Ruthven (1582-1600) - Find a Grave Memorial|2|0|1.33008077130371E+016|0|2022-06-27 08:48:33
+64|https://www.findagrave.com/memorial/25648107/alexander-ruthven/photo|Photos of Sir Alexander Ruthven - Find a Grave Memorial|1|0|1.33008076992281E+016|0|2022-06-27 08:48:19
+65|https://www.findagrave.com/memorial/25648107/alexander-ruthven/flower|Flowers for Sir Alexander Ruthven - Find a Grave Memorial|1|0|1.33008077014808E+016|0|2022-06-27 08:48:21
+80|https://www.familysearch.org/search/tree/results?q.anyDate.from=1600&q.givenName=Alexander%20&q.surname=Ruthven|Family Tree Search Results - Alexander Ruthven • FamilySearch|1|0|1.33008078728622E+016|0|2022-06-27 08:51:12
+81|https://www.familysearch.org/ark:/61903/4:1:GZWH-Z3M|FamilySearch.org|1|0|1.33008079056448E+016|0|2022-06-27 08:51:45
+82|https://www.familysearch.org/tree/person/GZWH-Z3M|FamilySearch.org|2|0|1.33008079061762E+016|0|2022-06-27 08:51:46
+83|https://www.familysearch.org/tree/pedigree/GZWH-Z3M|"Alexander Ruthven Master of Gowrie (1580–1600) | Landscape View | Family Tree | FamilySearch"|1|0|1.33008079057293E+016|0|2022-06-27 08:51:45
+84|https://www.familysearch.org/tree/pedigree/landscape/GZWH-Z3M|"Alexander Ruthven Master of Gowrie (1580–1600) | Landscape View | Family Tree | FamilySearch"|1|0|1.33008079057293E+016|0|2022-06-27 08:51:45
+85|https://www.familysearch.org/tree/person/details/GZWH-Z3M|"Alexander Ruthven Master of Gowrie (1580–1600) | Person | Family Tree | FamilySearch"|2|0|1.33008086437423E+016|0|2022-06-27 09:04:03
+86|https://www.familysearch.org/tree/person/sources/GZWH-Z3M|"Alexander Ruthven Master of Gowrie (1580–1600) | Person | Family Tree | FamilySearch"|3|0|1.33008085227859E+016|0|2022-06-27 09:02:02
+87|https://www.familysearch.org/search/|Search Historical Records • FamilySearch|1|0|1.33008079659098E+016|0|2022-06-27 08:52:45
+88|https://www.familysearch.org/search/record/results?q.anyDate.from=1600&q.givenName=Alexander%20&q.surname=Ruthven|Search Results - Alexander Ruthven • FamilySearch|1|0|1.33008079778063E+016|0|2022-06-27 08:52:57
+89|https://www.familysearch.org/ark:/61903/1:1:QVV5-X3PZ|FamilySearch.org|1|0|1.33008079914716E+016|0|2022-06-27 08:53:11
+90|https://www.familysearch.org/search/record/results?count=20&q.anyDate.from=1600&q.deathLikeDate.from=1600&q.deathLikeDate.to=1600&q.givenName=Alexander%20&q.surname=Ruthven|Search Results - Alexander Ruthven • FamilySearch|1|0|1.33008080089272E+016|0|2022-06-27 08:53:28
+91|https://www.familysearch.org/tree/person/KZ5X-VYF|FamilySearch.org|2|0|1.33008080532962E+016|0|2022-06-27 08:54:13
+92|https://www.familysearch.org/tree/person/details/KZ5X-VYF|"Alexander Ruthven - Master of Ruthven (1580–1621) | Person | Family Tree | FamilySearch"|1|0|1.33008080533564E+016|0|2022-06-27 08:54:13
+93|https://www.familysearch.org/tree/person/MZ2S-H97|FamilySearch.org|2|0|1.3300808090718E+016|0|2022-06-27 08:54:50
+94|https://www.familysearch.org/tree/person/details/MZ2S-H97|"James Trotter (1589–1637) | Person | Family Tree | FamilySearch"|1|0|1.33008080911109E+016|0|2022-06-27 08:54:51
+95|https://search.brave.com/search?q=Skerne%2C+Durham%2C+England&source=desktop|Skerne, Durham, England - Brave Search|1|0|1.33008081281289E+016|0|2022-06-27 08:55:28
+96|https://en.wikipedia.org/wiki/Haughton-le-Skerne|Haughton-le-Skerne - Wikipedia|1|0|1.33008081600348E+016|0|2022-06-27 08:56:00
+97|https://search.brave.com/search?q=google+maps&source=desktop|google maps - Brave Search|1|0|1.33008081939691E+016|0|2022-06-27 08:56:33
+98|https://maps.google.com/|Google Maps|1|0|1.33008082003742E+016|0|2022-06-27 08:56:40
+99|https://maps.google.com/maps|Google Maps|1|0|1.33008082003742E+016|0|2022-06-27 08:56:40
+100|https://www.google.com/maps|Google Maps|2|0|1.33008082011258E+016|0|2022-06-27 08:56:41
+101|https://www.google.com/maps/@38.0956944,-84.5536575,15z|Skerne, Durham, England - Google Maps|1|0|1.33008082044019E+016|0|2022-06-27 08:56:44
+102|https://www.google.com/maps/search/Skerne,+Durham,+England/@38.0956944,-84.5536575,15z|River Skerne - Google Maps|1|0|1.33008082060572E+016|0|2022-06-27 08:56:46
+103|https://www.google.com/maps/place/River+Skerne/@54.5980894,-1.7461472,10z/data=!3m1!4b1!4m5!3m4!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!8m2!3d54.6146635!4d-1.5193957|Google Maps|1|0|1.33008082071291E+016|0|2022-06-27 08:56:47
+104|https://www.google.com/maps/dir//River+Skerne,+United+Kingdom/@54.5980894,-1.7461472,10z/data=!4m16!1m7!3m6!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2sRiver+Skerne!3b1!8m2!3d54.6146635!4d-1.5193957!4m7!1m0!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Google Maps|1|0|1.33008082100455E+016|0|2022-06-27 08:56:50
+105|https://www.google.com/maps/dir//River+Skerne,+United+Kingdom/@54.5980894,-1.7461472,10z/data=!4m8!4m7!1m0!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Google Maps|3|0|1.3300808213374E+016|0|2022-06-27 08:56:53
+106|https://www.google.com/maps/dir/Ruthven+Place,+Edinburgh,+UK/River+Skerne,+United+Kingdom/@54.5980894,-1.7461472,10z/data=!4m8!4m7!1m0!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Ruthven Pl, Edinburgh, UK to River Skerne, United Kingdom - Google Maps|1|0|1.33008082196951E+016|0|2022-06-27 08:56:59
+107|https://www.google.com/maps/dir/Ruthven+Pl,+Edinburgh,+UK/River+Skerne,+United+Kingdom/@54.5980894,-1.7461472,10z/data=!4m13!4m12!1m5!1m1!1s0x4887b89692567613:0xb34586f903f119cc!2m2!1d-3.1532933!2d55.921473!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Ruthven Pl, Edinburgh, UK to River Skerne, United Kingdom - Google Maps|1|0|1.33008082214721E+016|0|2022-06-27 08:57:01
+108|https://www.google.com/maps/dir/Ruthven+Pl,+Edinburgh,+UK/River+Skerne,+United+Kingdom/@55.2953568,-3.447412,8z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4887b89692567613:0xb34586f903f119cc!2m2!1d-3.1532933!2d55.921473!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Google Maps|1|0|1.33008082220077E+016|0|2022-06-27 08:57:02
+109|https://search.brave.com/search?q=gowrie+conspiracy&source=desktop|gowrie conspiracy - Brave Search|1|0|1.33008082361521E+016|0|2022-06-27 08:57:16
+110|https://www.britannica.com/event/Gowrie-Conspiracy|"Gowrie Conspiracy | Scottish history | Britannica"|2|0|1.33008082424619E+016|0|2022-06-27 08:57:22
+111|https://www.britannica.com/biography/John-Ruthven-3rd-Earl-of-Gowrie#ref235140|"John Ruthven, 3rd earl of Gowrie | Scottish conspirator | Britannica"|2|0|1.33008082485936E+016|0|2022-06-27 08:57:28
+112|https://www.google.com/maps/dir//River+Skerne,+United+Kingdom/@55.2953568,-3.447412,8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x487e9ae8f0bb40bd:0x487e850f23da3345!2m2!1d-1.5193957!2d54.6146635|Google Maps|3|0|1.33008082775304E+016|0|2022-06-27 08:57:57
+113|https://search.brave.com/search?q=internet+archives&source=desktop|internet archives - Brave Search|1|0|1.33008083027647E+016|0|2022-06-27 08:58:22
+114|https://search.brave.com/search?q=ruthven+clan&source=desktop|ruthven clan - Brave Search|1|0|1.33008083080398E+016|0|2022-06-27 08:58:28
+115|https://www.scotclans.com/scottish-clans/clan-ruthven/|Ruthven Clan and Tartan Shop|1|0|1.33008083190232E+016|0|2022-06-27 08:58:39
+116|https://www.scotclans.com/collections/ruthven-tartan-shop|Ruthven Clan and Tartan Shop|1|0|1.33008083190232E+016|0|2022-06-27 08:58:39
+117|https://search.brave.com/search?q=Deid+schaw&source=desktop|Deid schaw - Brave Search|1|0|1.33008083579123E+016|0|2022-06-27 08:59:17
+118|https://en.wikipedia.org/wiki/Clan_Ruthven|Clan Ruthven - Wikipedia|1|0|1.33008083631005E+016|0|2022-06-27 08:59:23
+119|https://digital.nls.uk/histories-of-scottish-families/archive/95256687#?c=0&m=0&s=0&cv=19&xywh=-281%2C-220%2C5611%2C4159&r=0|Ruthven family papers - Histories of Scottish families - National Library of Scotland|7|0|1.33008084337762E+016|0|2022-06-27 09:00:33
+120|https://digital.nls.uk/histories-of-scottish-families/archive/95256687#?c=0&m=0&s=0&cv=19&xywh=-282%2C-451%2C5611%2C4619&r=0|Ruthven family papers - Histories of Scottish families - National Library of Scotland|1|0|1.33008084338506E+016|0|2022-06-27 09:00:33
+121|https://deriv.nls.uk/dcn23/9525/95255930.23.pdf||1|0|1.33008084554773E+016|0|2022-06-27 09:00:55
+122|https://search.brave.com/search?q=how+to+expert+browser+history+as+text+file&source=desktop|how to expert browser history as text file - Brave Search|1|0|1.33008086747539E+016|0|2022-06-27 09:04:34
+123|https://search.brave.com/search?q=how+to+expert+browser+history+as+text+file+brave&source=web|how to expert browser history as text file brave - Brave Search|1|0|1.33008086813739E+016|0|2022-06-27 09:04:41
+124|https://www.reddit.com/r/brave_browser/comments/fnzwwe/how_do_you_export_browser_history_from_brave_to/|How do you export browser history from Brave to another browser? : brave_browser|2|0|1.33008086920788E+016|0|2022-06-27 09:04:52
+125|https://search.brave.com/search?q=AppData+local+folder&source=desktop|AppData local folder - Brave Search|1|0|1.33008087790902E+016|0|2022-06-27 09:06:19
+126|https://help.ableton.com/hc/en-us/articles/209070509-How-to-access-hidden-folders|How to access hidden folders – Ableton|1|0|1.33008087820831E+016|0|2022-06-27 09:06:22
+127|https://search.brave.com/search?q=SQLite+format+3+viewer&source=desktop|SQLite format 3 viewer - Brave Search|1|0|1.33008089458882E+016|0|2022-06-27 09:09:05
+128|https://inloop.github.io/sqlite-viewer/|SQLite Viewer|1|0|1.33008089687276E+016|0|2022-06-27 09:09:28
