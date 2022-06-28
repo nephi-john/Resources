@@ -1,6 +1,15 @@
+----------------------------------------------------------------------------
+https://www.youtube.com/watch?v=VOKQrS2iMIY
+============================================================================
+
+
 %AppData%
 
 \Local\BraveSoftware\Brave-Browser\User Data\Default
+
+=((([@[last_visit_time]]/1000000-11644473600)/60/60)-4)/24+DATE(1970,1,1)
+
+
 
 http://2016.padjo.org/tutorials/sqlite-your-browser-history/
 
