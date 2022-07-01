@@ -56,6 +56,11 @@ MORMON ... 3 Nephi ... I am a descendent of Lehi ...
 	... WOM ... I am a descendant of Nephi ... 
 
 
+https://bloggersforthekingdom.com/when-was-jesus-really-born-feast-of-tabernacles/
+
+https://i1.wp.com/bloggersforthekingdom.com/wp-content/uploads/2019/01/jesus-3852478_1920.jpg
+
+
 
 
 
