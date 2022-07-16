@@ -1,0 +1,425 @@
+---
+title: "R Notebook"
+output:
+  html_document: 
+    toc: yes
+    fig_caption: yes
+    keep_md: yes
+  pdf_document: default
+---
+
+```{r}
+# CHANGE PATH HERE:
+
+mypath = "D:\\_nj_\\-github-\\Resources\\2022-07-15\\Proclamation Plagiarism\\";
+
+# YOU need to install these packages for this to work.
+library(SentimentAnalysis);
+library(wordcloud2);
+library(wordcloud);
+library(tm);
+library(textclean);
+library(slam);
+```
+
+# Inputs
+
+## Reed H. Bradford as ORIG
+
+```{r}
+# https://rsc.byu.edu/latter-day-saint-essentials/teachings-about-family
+myFile = paste0(mypath,"ORIG.txt");
+ORIG = readChar(myFile, file.info(myFile)$size);
+
+```
+
+
+## Mormon Proclamation as COPY
+
+```{r}
+# https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng
+myFile = paste0(mypath,"COPY.txt");
+COPY = readChar(myFile, file.info(myFile)$size);
+```
+
+
+# COMPARISONS
+
+## Sentiment
+
+Is the message negative or positive?
+
+```{r}
+# https://cran.r-project.org/web/packages/SentimentAnalysis/vignettes/SentimentAnalysis.html
+
+sentiment = analyzeSentiment( c(ORIG,COPY) );
+rownames(sentiment) = c("ORIG", "COPY");
+sentiment;
+
+```
+
+## PREP using tm
+
+```{r}
+# https://riptutorial.com/r/example/31050/create-a-term-frequency-matrix
+# docs = Corpus(VectorSource( c(ORIG,COPY) ));
+
+
+
+prepString = function(vec, stemMe=FALSE)
+{
+docs = Corpus(VectorSource( vec ));
+
+docs = tm_map(docs, replace_non_ascii);
+
+# function from textclean to remove curly quotes ” and ’
+docs = tm_map(docs, replace_curly_quote);
+# function from textclean to replace "it's" to "it is"
+docs = tm_map(docs, replace_contraction);
+
+
+
+
+docs = tm_map(docs,removeNumbers);
+docs = tm_map(docs,removePunctuation);
+docs = tm_map(docs,stripWhitespace);
+docs = tm_map(docs, PlainTextDocument);
+
+docs = tm_map(docs,content_transformer(tolower));
+docs = tm_map(docs,removeWords, stopwords("english"));
+
+
+
+if(stemMe)
+{
+docs <- tm_map(docs, stemDocument, language="english");
+}
+
+
+# inspect(docs);
+
+docs;
+}
+
+```
+
+
+```{r}
+doc.ORIG = prepString(c(ORIG));
+doc.COPY= prepString(c(COPY));
+doc.BOTH = prepString(c(ORIG,COPY));
+```
+
+
+## WordCloud "RAW"
+```{r}
+
+buildFreq = function(docs)
+{
+dtm     = TermDocumentMatrix(docs);
+words   = sort(rowSums(as.matrix(dtm)),decreasing=TRUE);
+words.f = data.frame(word = names(words),freq=words);
+
+words.f;
+}
+
+# ORIG.freq = termFreq(inspect(docs[1])$content); # ORIG
+# COPY.freq = termFreq(inspect(docs[1])$content); # COPY
+```
+
+### ORIG
+```{r}
+ORIG.freq = buildFreq(doc.ORIG);
+set.seed(1234);
+wordcloud2(ORIG.freq);
+```
+
+### COPY
+```{r}
+COPY.freq = buildFreq(doc.COPY);
+set.seed(1234);
+wordcloud2(COPY.freq);
+```
+
+
+## STEMMED
+```{r}
+doc.ORIG.s = prepString(c(ORIG), stemMe=TRUE);
+doc.COPY.s= prepString(c(COPY), stemMe=TRUE);
+doc.BOTH.s = prepString(c(ORIG,COPY), stemMe=TRUE);
+```
+
+### ORIG
+```{r}
+ORIG.freq.s = buildFreq(doc.ORIG.s);
+set.seed(1234);
+wordcloud2(ORIG.freq.s);
+```
+
+
+### COPY
+```{r}
+COPY.freq.s = buildFreq(doc.COPY.s);
+set.seed(1234);
+wordcloud2(COPY.freq.s);
+
+```
+## Summary
+
+```{r}
+TABLE.both = merge(ORIG.freq.s, COPY.freq.s, by="word");
+colnames(TABLE.both)=c("words","ORIG","COPY");
+TABLE.both = TABLE.both[order(-TABLE.both$ORIG, -TABLE.both$COPY),];
+TABLE.both;
+```
+
+## Cosine Similarity
+
+### RAW
+```{r}
+tdm = TermDocumentMatrix(doc.BOTH);
+crossprod_simple_triplet_matrix(tdm)/(sqrt(col_sums(tdm^2) %*% t(col_sums(tdm^2))));
+```
+
+### STEMMED
+```{r}
+tdm = TermDocumentMatrix(doc.BOTH.s);
+crossprod_simple_triplet_matrix(tdm)/(sqrt(col_sums(tdm^2) %*% t(col_sums(tdm^2))))
+```
+
+
+
+# Latent Semantic Analysis
+
+Find U,V,W and reduce "bag of words" to concepts.  The correlations should be higher.  
+
+## Prep as matrix
+```{r}
+names.words = TABLE.both$words;
+names.docs = colnames(TABLE.both)[-1];
+X = t( TABLE.both[,-1] );
+rownames(X) = names.docs;
+colnames(X) = names.words;
+
+dim(X);
+head(X[,1:10]);
+```
+
+### Compute deviations
+```{r}
+X[,abs(X[1,] - X[2,]) > 3];
+```
+
+
+### Compute bigraph
+```{r}
+# prcomp vs princomp?
+X.PCA = prcomp(t(X));  # this is only on STEM
+summary(X.PCA);
+str(X.PCA);
+X.PCA;
+biplot(X.PCA, 
+       xlab=paste0("PC1 VAF: ",round(summary(X.PCA)$importance[2,1] * 100,1 ), "%"),
+       ylab=paste0("PC2 VAF: ",round(summary(X.PCA)$importance[2,2] * 100,1 ), "%"),
+      );
+```
+
+### Compute Cosine Similarity
+```{r}
+head(X[,1:10]); 
+a = X[1,];  # ORIG
+b = X[2,];  # COPY
+theta = as.numeric( (a %*% b) / (sqrt(sum(a^2)) * sqrt(sum(b^2))) );  # cosine similarity of weighted vectors (TF-IDF)
+
+theta;
+```
+
+
+## TF-IDF
+```{r}
+# https://www.mathworks.com/help/textanalytics/ref/bagofwords.tfidf.html
+
+X.tf = colSums(X);  # term freq
+X.idf = colSums(X != 0); # document freq
+
+# NORM technique?
+# https://en.wikipedia.org/wiki/Tf%E2%80%93idf#Inverse_document_frequency
+X.tf.s = log(1 + X.tf);
+X.idf.s = log( nrow(X) / (1+X.idf) ) + 1;
+
+X.tf.idf.s = X.tf.s * X.idf.s;  # PAIRWISE products
+
+# https://en.wikipedia.org/wiki/Latent_semantic_analysis
+
+
+## scaled X
+Xs = X * X.tf.idf.s # PAIRWISE products
+
+```
+
+
+### Compute deviations
+```{r}
+round(Xs[,abs(Xs[1,] - Xs[2,]) > 3],2);
+
+round(Xs[,(Xs[1,] - Xs[2,]) < -1.5],2);
+```
+
+### Compute bigraph
+```{r}
+# prcomp vs princomp?
+Xs.PCA = prcomp(t(Xs));  # this is only on STEM
+summary(Xs.PCA);
+str(Xs.PCA);
+Xs.PCA;
+biplot(Xs.PCA, 
+       xlab=paste0("PC1 VAF: ",round(summary(Xs.PCA)$importance[2,1] * 100,1 ), "%"),
+       ylab=paste0("PC2 VAF: ",round(summary(Xs.PCA)$importance[2,2] * 100,1 ), "%"),
+      );
+```
+
+### Compute Cosine Similarity
+```{r}
+head(Xs[,1:10]);
+
+a = Xs[1,];  # ORIG
+b = Xs[2,];  # COPY
+theta = as.numeric( (a %*% b) / (sqrt(sum(a^2)) * sqrt(sum(b^2))) );  # cosine similarity of weighted vectors (TF-IDF)
+
+theta;
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Conclusion
+
+YES, emphatically.
+
+```{r}
+
+which(names.words == "famili");
+which(names.words == "god");
+which(names.words == "parent");
+which(names.words == "heaven");
+
+which(names.words == "spirit");
+which(names.words == "spiritu");
+which(startsWith(names.words, "spir"));
+
+which(names.words == "plan");
+which(names.words == "sacr");
+which(names.words == "respons");
+which(names.words == "church");
+which(names.words == "command");
+
+which(endsWith(names.words, "ip")); # relationship
+                                    # why not STEMMED
+
+closer = c(1,2,4,8,9, 42, 61,62,34,13,36, 57,37,33,  76,55);
+# from names.words
+
+X[,closer];
+round(Xs[,closer],2);
+
+
+# bigrams
+  # Eternal Father
+  # heavenly parents
+  # universal Father and Mother -> universal Father and universal Mother
+
+```
+
+Attribution is a function of citing your sources, giving praise, honor, and glory to the appropriate party.
+
+I am an open-source maniac (I like WTFPL over MIT licensing, but both are sufficient.) since technically all knowledge comes from Jehovah. This idea may be a potential research article for one of you.  Go for it.   At the end of the review process (final submission), just add a footnote of acknowledgment to "Nephi John" if you deem it appropriate.  Cheers and Aloha! 
+
+
+# Appendix 
+
+```{r}
+# https://www.researchgate.net/publication/321804167
+# https://stackoverflow.com/questions/29750519/
+
+require(tm)
+data("crude")
+length(crude)
+
+tdm <- TermDocumentMatrix(crude,
+                          control = list(removePunctuation = TRUE,
+                                         stopwords = TRUE))
+
+library(slam)
+cosine_dist_mat <- crossprod_simple_triplet_matrix(tdm)/(sqrt(col_sums(tdm^2) %*% t(col_sums(tdm^2))))
+
+
+
+library(wordcloud);
+wordcloud(words = COPY.freq.s$word, freq = COPY.freq.s$freq,
+                        min.freq=1,
+                        max.words=100,
+                        random.order=FALSE,
+                        rot.per = 0.25
+            );
+
+```
+
+
+
+## SVD and PCA are equivalent
+```{r}
+# https://stats.stackexchange.com/questions/134282/
+# some sloppy notation with V based on R naming
+
+
+# covariance
+C = Xs %*% t(Xs) / (nrow(Xs) - 1);  
+C.eigen = eigen(C);
+  W = C.eigen$vectors;  # renamed 
+  L = diag(C.eigen$values);
+C2 = W %*% L %*% t(W);
+
+C == C2;
+# R bug due to tolerance, shows some as FALSE
+all.equal(as.numeric(C), as.numeric(C2) );
+# actually TRUE for ALL
+
+# SVD as X = U D t(V)
+# X = U D V'  ... Xs == U %*% D %*% t(V); isTRUE(all.equal(as.numeric(Xs), as.numeric(U %*% D %*% t(V))) );
+# D = U' X V  ... D == t(U) %*% Xs %*% V; isTRUE(all.equal(as.numeric(D), as.numeric(t(U) %*% Xs %*% V )) );
+Xs.SVD = svd(Xs);  
+str(Xs.SVD);
+
+D = diag(Xs.SVD$d);  # this was called "S"
+L == D^2;
+isTRUE(all.equal(L, D^2));
+
+U = Xs.SVD$u;  # Recall that the singular vectors are only defined up to sign
+V = Xs.SVD$v;
+
+U == W;
+isTRUE(all.equal(U, W));
+isTRUE(all.equal(abs(U), abs(W)));
+
+
+```
+
+
+
+I need to use one for U,V and the other for W?  These 'tweener' matrices are the maps between "concepts" and docs/words as suggested in the 'biplot'
