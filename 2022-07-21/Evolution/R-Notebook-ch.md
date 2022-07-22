@@ -411,7 +411,7 @@ print(paste0( timer.diff, " seconds "));
 ```
 
 ```
-## [1] "0.0558509826660156 seconds "
+## [1] "0.0159571170806885 seconds "
 ```
 
 
@@ -503,7 +503,7 @@ print(paste0( timer.diff, " seconds "));
 ```
 
 ```
-## [1] "0.0149600505828857 seconds "
+## [1] "0.00697994232177734 seconds "
 ```
 
 
@@ -582,7 +582,7 @@ print(paste0( timer.diff, " seconds "));
 ```
 
 ```
-## [1] "0.0269348621368408 seconds "
+## [1] "0.0029909610748291 seconds "
 ```
 
 
