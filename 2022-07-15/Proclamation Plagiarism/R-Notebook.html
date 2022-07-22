@@ -579,6 +579,12 @@ TABLE.both;</code></pre>
 ## 69       repent    1    1
 ## 77      success    1    1
 ## 78      support    1    1</code></pre>
+<pre class="r"><code># TABLE.both = merge(ORIG.freq.s, COPY.freq.s, by=&quot;word&quot;, all.x=TRUE, all.y=TRUE);  # does this drop 0,1 ?
+# colnames(TABLE.both)=c(&quot;words&quot;,&quot;ORIG&quot;,&quot;COPY&quot;);
+# TABLE.both = TABLE.both[order(-TABLE.both$ORIG, -TABLE.both$COPY),];
+# 
+# TABLE.both[is.na(TABLE.both)] = 0; # NA from merge
+# TABLE.both;</code></pre>
 </div>
 <div id="cosine-similarity" class="section level2">
 <h2>Cosine Similarity</h2>

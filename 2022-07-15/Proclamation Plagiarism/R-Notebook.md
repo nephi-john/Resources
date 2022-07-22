@@ -639,6 +639,15 @@ TABLE.both;
 ## 78      support    1    1
 ```
 
+```r
+# TABLE.both = merge(ORIG.freq.s, COPY.freq.s, by="word", all.x=TRUE, all.y=TRUE);  # does this drop 0,1 ?
+# colnames(TABLE.both)=c("words","ORIG","COPY");
+# TABLE.both = TABLE.both[order(-TABLE.both$ORIG, -TABLE.both$COPY),];
+# 
+# TABLE.both[is.na(TABLE.both)] = 0; # NA from merge
+# TABLE.both;
+```
+
 ## Cosine Similarity
 
 ### RAW
