@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>~GEa37412.kmz</name>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaaff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="mfailed0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed50">
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed6">
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="failed5">
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed19">
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed60">
+	</Style>
+	<StyleMap id="failed24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed00">
+	</Style>
+	<StyleMap id="failed7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>f7005555</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed52">
+	</Style>
+	<Style id="s_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_flag">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed150</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed23">
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mfailed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+	</Style>
+	<Style id="failed150">
+	</Style>
+	<StyleMap id="mfailed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>f7005555</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="failed18">
+	</Style>
+	<StyleMap id="failed100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed21">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed800">
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaaff</color>
+			<width>50</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed13">
+	</Style>
+	<StyleMap id="failed20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed14">
+	</Style>
+	<Style id="failed51">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed30">
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+	</Style>
+	<Style id="failed40">
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed17">
+	</Style>
+	<StyleMap id="failed11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_flag">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_flag</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_flag</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="failed9">
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaaff</color>
+			<width>50</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ranger_station">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="failed300">
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_flag">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed15">
+	</Style>
+	<Style id="failed22">
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaaff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed16">
+	</Style>
+	<Style id="failed10">
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>files/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>files/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>Brasil</name>
+			<open>1</open>
+			<Placemark>
+				<name>Temple Nephi</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>-65.379479</longitude>
+					<latitude>-9.649107000000001</latitude>
+					<altitude>11.55105000523653</altitude>
+					<heading>0</heading>
+					<tilt>45</tilt>
+					<range>1000</range>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<Model id="model_1">
+					<Location>
+						<longitude>-65.379479</longitude>
+						<latitude>-9.649107000000001</latitude>
+						<altitude>0</altitude>
+					</Location>
+					<Orientation>
+						<heading>-90.2609705555805</heading>
+						<tilt>0</tilt>
+						<roll>0</roll>
+					</Orientation>
+					<Scale>
+						<x>2.59663841619621</x>
+						<y>2.55115756773511</y>
+						<z>2.57389799196566</z>
+					</Scale>
+					<Link>
+						<href>files/model.dae</href>
+					</Link>
+					<ResourceMap>
+						<Alias>
+							<targetHref>Golf_Leaf.jpg</targetHref>
+							<sourceHref>model/Golf_Leaf.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>Golf_Leaf_Arc.jpg</targetHref>
+							<sourceHref>model/Golf_Leaf_Arc.jpg</sourceHref>
+						</Alias>
+					</ResourceMap>
+				</Model>
+			</Placemark>
+			<GroundOverlay>
+				<name>Bananal</name>
+				<color>80ffffff</color>
+				<Icon>
+					<href>files/Bananal.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-5.070095900583445</north>
+					<south>-13.4732320450888</south>
+					<east>-47.53921805584118</east>
+					<west>-50.80904760285485</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Tupinambarana</name>
+				<color>66ffffff</color>
+				<Icon>
+					<href>files/Tupinambarana.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-2.28501134360616</north>
+					<south>-4.181513144955178</south>
+					<east>-56.68549221342566</east>
+					<west>-59.21914992290387</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Chavín</name>
+				<color>99ffffff</color>
+				<Icon>
+					<href>files/Chavin.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>0.4480240575909417</north>
+					<south>-18.12626827963209</south>
+					<east>-69.7514537326945</east>
+					<west>-82.24032358989129</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Diamonds</name>
+				<color>66ffffff</color>
+				<Icon>
+					<href>files/diamonds.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>6.228431991232799</north>
+					<south>-34.93017511601305</south>
+					<east>-31.90842888780922</east>
+					<west>-75.55019848769891</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Languages of South America</name>
+				<color>cfffffff</color>
+				<Icon>
+					<href>files/languages.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>10.86142427622002</north>
+					<south>-56.01082781511516</south>
+					<east>-34.3453910162708</east>
+					<west>-85.83390773350715</west>
+					<rotation>-6.43491792678833</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Tupian</name>
+				<color>d1ffffff</color>
+				<Icon>
+					<href>files/tupi.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.151126802435711</north>
+					<south>-32.50540142740638</south>
+					<east>-33.92253979271201</east>
+					<west>-74.96367867131923</west>
+					<rotation>-0.5825253725051879</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Uru-Eu-Wau-Wau</name>
+				<color>99ffffff</color>
+				<Icon>
+					<href>files/uru.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-7.730710027663672</north>
+					<south>-13.67961876537677</south>
+					<east>-57.94537695491299</east>
+					<west>-65.80120108307237</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Earth Works</name>
+				<color>b3ffffff</color>
+				<Icon>
+					<href>files/earthworks-south.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>8.831916032253773</north>
+					<south>-27.93813170287381</south>
+					<east>-42.94612963719658</east>
+					<west>-83.43574474739137</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ditch Defenses</name>
+				<color>80ffffff</color>
+				<Icon>
+					<href>files/ditch-defenses.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-8.175325977923677</north>
+					<south>-10.67408382128927</south>
+					<east>-56.37231785904891</east>
+					<west>-60.87952971841045</west>
+					<rotation>0.04138190299272537</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Earth Works (Probabilistic)</name>
+				<color>52ffffff</color>
+				<Icon>
+					<href>files/earthworks-south-probabilities.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>8.711296693546945</north>
+					<south>-22.25753472216748</south>
+					<east>-44.04944825958649</east>
+					<west>-82.50313441958841</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Earth Works Acre</name>
+				<color>61ffffff</color>
+				<Icon>
+					<href>files/earthworks-bolivia.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-8.46376056046995</north>
+					<south>-10.87912433319975</south>
+					<east>-65.19267526111136</east>
+					<west>-68.44232824338235</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Bolivian Natives</name>
+				<color>99ffffff</color>
+				<Icon>
+					<href>files/bolivia.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-8.98488308616832</north>
+					<south>-23.15106623858367</south>
+					<east>-57.29454460582773</east>
+					<west>-70.39345697703097</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Terra Preta</name>
+				<color>80ffffff</color>
+				<Icon>
+					<href>files/terra-preta.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>6.62823865936149</north>
+					<south>-22.57130675806161</south>
+					<east>-31.67161227038677</east>
+					<west>-81.69844607668244</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Peru</name>
+				<color>66ffffff</color>
+				<Icon>
+					<href>files/peru.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>1.124222840076919</north>
+					<south>-24.89089684170842</south>
+					<east>-61.64002155032028</east>
+					<west>-83.34910790836291</west>
+					<rotation>-1.446130633354187</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Marajó</name>
+				<color>baffffff</color>
+				<Icon>
+					<href>files/marajo-transparent.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>0.318801535657382</north>
+					<south>-2.195594088995249</south>
+					<east>-47.12499213963823</east>
+					<west>-51.5118937144197</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Highland, elevation 3000 feet</name>
+				<Camera>
+					<longitude>-63.559244582453</longitude>
+					<latitude>-11.01233634552006</latitude>
+					<altitude>4577.35916306323</altitude>
+					<heading>-48.23662940723935</heading>
+					<tilt>43.95790228517063</tilt>
+					<roll>-2.43860947283454</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#failed80</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-63.58665186043947,-11.00371893468743,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Highland, elevation 2000 feet</name>
+				<Camera>
+					<longitude>-63.12045389785522</longitude>
+					<latitude>-11.45683066880543</latitude>
+					<altitude>5419.428820751945</altitude>
+					<heading>-49.26211064965091</heading>
+					<tilt>31.60167760366564</tilt>
+					<roll>-3.047209881473683</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#failed4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-63.14739665158134,-11.43952906015544,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Temple of Nephi</name>
+				<Camera>
+					<longitude>-65.35169554666247</longitude>
+					<latitude>-9.672903655083514</latitude>
+					<altitude>19192.235935466</altitude>
+					<heading>-51.92809218705676</heading>
+					<tilt>11.77105357253411</tilt>
+					<roll>-4.332965197090849</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#failed1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-65.38,-9.65,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Waters of Mormon (1657)</name>
+				<color>87ffffff</color>
+				<Icon>
+					<href>files/WatersMormon_1657-11576046.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>10.29591111798618</north>
+					<south>0.8109827921134939</south>
+					<east>-49.14521821931928</east>
+					<west>-61.3698541680287</west>
+					<rotation>-7.431326866149902</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Terra Preta - French Guiana</name>
+				<color>66ffffff</color>
+				<Icon>
+					<href>files/terra-preta-french-guyaina.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.779588204921669</north>
+					<south>2.169188814127342</south>
+					<east>-51.46066364349846</east>
+					<west>-54.74957118293987</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Amazon-languages</name>
+				<color>66ffffff</color>
+				<Icon>
+					<href>files/amazon-languages.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>10.92963072646789</north>
+					<south>-23.97546921416422</south>
+					<east>-40.78786842409318</east>
+					<west>-87.23498013513411</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Amazon-crops</name>
+				<color>80ffffff</color>
+				<Icon>
+					<href>files/amazon-crop-diversity.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>11.18845684899344</north>
+					<south>-24.92556058357796</south>
+					<east>-38.28906260704109</east>
+					<west>-86.36811536018853</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Amazon - Ditches - Terra Preta</name>
+				<color>99ffffff</color>
+				<Icon>
+					<href>files/amazon-earthworks-terra-preta.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>11.39854608594439</north>
+					<south>-23.94323475992434</south>
+					<east>-38.93748246463696</east>
+					<west>-86.2824364792898</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Nephi Temple</name>
+				<LookAt>
+					<longitude>-65.37882455444951</longitude>
+					<latitude>-9.648946923948218</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001096940002153188</heading>
+					<tilt>44.99999445145599</tilt>
+					<range>999.1443175950679</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed24</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-65.38017256275762,-9.649356317898857,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ocean</name>
+			<open>1</open>
+			<Placemark>
+				<name>30 degrees south</name>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-78.88696639180431,-30.00329578483687,0 -46.92055350876691,-30.00264885375537,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Nephi departs Old World</name>
+				<Camera>
+					<longitude>53.34883107828956</longitude>
+					<latitude>16.69702448690062</latitude>
+					<altitude>2721.570370977527</altitude>
+					<heading>-8.562900734329347</heading>
+					<tilt>54.82375628005691</tilt>
+					<roll>-0.666073070696618</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#mfailed1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>53.33838049478557,16.72778835199267,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nephi Mauritius Stop</name>
+				<Camera>
+					<longitude>57.37145246424698</longitude>
+					<latitude>-20.38010508840716</latitude>
+					<altitude>2091.74613153813</altitude>
+					<heading>-3.598822325195005</heading>
+					<tilt>28.30132612146057</tilt>
+					<roll>4.996654186081307</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#mfailed1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>57.36995263356958,-20.36617524458725,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gough Island</name>
+				<Camera>
+					<longitude>-9.777220995858695</longitude>
+					<latitude>-40.36819581451142</latitude>
+					<altitude>64580.49796259043</altitude>
+					<heading>43.87741921866924</heading>
+					<tilt>0.8809010972075231</tilt>
+					<roll>47.86759459041403</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#mfailed1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-9.895589047775772,-40.32179762589588,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arabia to Mauritius</name>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						57.36777579743288,-20.36462266405373,0 57.33306300530521,-20.35472667150223,0 57.31111197294857,-20.32011485188156,0 57.29658304969075,-20.21216342185514,0 57.66431535844391,-18.83257287737987,0 54.74175981754495,12.59030607600512,0 53.33956426397136,16.7260576812572,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Mauritius to Gough</name>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						57.36601547258505,-20.36412135435195,0 57.3352904379961,-20.35618243031429,0 57.27001901390909,-20.41101755247948,0 57.16526526718072,-20.50690051881121,0 -9.874098412259229,-40.32275710192416,0 -9.898070746992989,-40.32149563103365,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Gough to Montevideo</name>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-9.896108669520146,-40.32134490231246,0 -9.829488209755226,-40.32552687260012,0 -9.818017257261072,-40.37671157901677,0 -9.854194105139449,-40.40722153140279,0 -9.9178043009903,-40.42636358471944,0 -54.75899197949357,-35.93105529608356,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Arabia to Comoros (Moroni)</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.24711257430988,-11.70424558264508,0 43.24515067313369,-11.69625087666826,0 43.18140611567588,-11.53086104962341,0 43.21052909572016,-11.36385461344157,0 52.6796100688343,12.07745621421415,0 53.33979892481712,16.72579462410916,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Comoros to Gough</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.24662400528137,-11.70341942364288,0 43.24520514929081,-11.69832725749216,0 43.19731473325238,-11.721507264745,0 28.77829791235984,-34.0949050529585,0 -9.897158978491101,-40.32206134776111,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<GroundOverlay>
+				<name>Oman Minerals</name>
+				<color>80ffffff</color>
+				<Icon>
+					<href>files/oman-minerals.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>26.60435569654533</north>
+					<south>16.13601409131991</south>
+					<east>60.22479155399667</east>
+					<west>52.06526603022857</west>
+					<rotation>0.2459975481033325</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Iron Ore Site #1</name>
+				<Camera>
+					<longitude>53.60665911634996</longitude>
+					<latitude>16.80984776656505</latitude>
+					<altitude>184391.4353123275</altitude>
+					<heading>-40.3412022312178</heading>
+					<tilt>2.269915059066828</tilt>
+					<roll>-46.35242374589656</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>53.51,16.76,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iron Ore Site #2</name>
+				<Camera>
+					<longitude>53.60665911634996</longitude>
+					<latitude>16.80984776656505</latitude>
+					<altitude>184391.4353123275</altitude>
+					<heading>-40.3412022312178</heading>
+					<tilt>2.269915059066828</tilt>
+					<roll>-46.35242374589656</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>53.14198343255095,16.68413864821363,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Magnanese</name>
+				<description>Used with iron ore ...
+
+https://en.wikipedia.org/wiki/Manganese#Steel</description>
+				<Camera>
+					<longitude>53.60665911634996</longitude>
+					<latitude>16.80984776656505</latitude>
+					<altitude>184391.4353123275</altitude>
+					<heading>-40.3412022312178</heading>
+					<tilt>2.269915059066828</tilt>
+					<roll>-46.35242374589656</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>53.43,17.24,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Jerusalem - Old World</name>
+			<open>1</open>
+			<Placemark>
+				<name>Golgotha?</name>
+				<styleUrl>#default0</styleUrl>
+				<Point>
+					<coordinates>35.23,31.784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>Overlays</name>
+				<open>1</open>
+				<GroundOverlay>
+					<name>Modern Water Wells</name>
+					<color>7affffff</color>
+					<Icon>
+						<href>files/Well-23.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>29.46510016636395</north>
+						<south>27.50270158630419</south>
+						<east>35.61091096796279</east>
+						<west>34.21796531885563</west>
+						<rotation>-1.041476607322693</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>Neo-Assyrian Empire</name>
+					<description>https://en.wikipedia.org/wiki/Neo-Assyrian_Empire</description>
+					<Camera>
+						<longitude>36.40608175283961</longitude>
+						<latitude>34.79151054085423</latitude>
+						<altitude>2152707.731004903</altitude>
+						<heading>-0.7192233590250805</heading>
+						<tilt>0</tilt>
+						<roll>0</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<color>ccffffff</color>
+					<Icon>
+						<href>files/Map_of_Assyria.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>42.308411</north>
+						<south>23.567711</south>
+						<east>54.25860399999999</east>
+						<west>20.732926</west>
+						<rotation>-0.4759</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>12 Tribes of Israel</name>
+					<description>https://en.wikipedia.org/wiki/Tribe_of_Manasseh</description>
+					<color>a1ffffff</color>
+					<Icon>
+						<href>files/12_Tribes_of_Israel_Map.svg.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>33.81250194138482</north>
+						<south>30.36437859278563</south>
+						<east>36.62336621683899</east>
+						<west>34.07990078242073</west>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>Arabia (1813)</name>
+					<Icon>
+						<href>files/0732038.jpg</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>32.39143401378666</north>
+						<south>11.28915718785155</south>
+						<east>61.98071420066354</east>
+						<west>30.23063956006422</west>
+						<rotation>2.403497219085693</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>Eliat - Bathymetry (1895)</name>
+					<color>6bffffff</color>
+					<Icon>
+						<href>files/Eliat-depth.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>29.92289267367618</north>
+						<south>27.37003757874988</south>
+						<east>35.74749169434828</east>
+						<west>33.26721529838092</west>
+						<rotation>1.988387107849121</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>Persia (1831)</name>
+					<Icon>
+						<href>files/2174034.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>49.68606974553087</north>
+						<south>11.22115311191918</south>
+						<east>76.67956919326302</east>
+						<west>20.75154829394286</west>
+						<rotation>7.857051849365234</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+			</Folder>
+			<Placemark>
+				<name>Lemuel Shoreline South</name>
+				<description>Bir Marsha</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>34.83,28.83,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lemuel Shoreline South + 50 miles SSE</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>35.144151,28.160973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lemuel Valley North - First Wadi</name>
+				<styleUrl>#failed20</styleUrl>
+				<Point>
+					<coordinates>35.08,29.28,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lemuel Valley North - First Wadi + 50 miles SSE</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>35.395487,28.610966,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nahom - Barran Temple</name>
+				<description><![CDATA[<img src="https://madainproject.com/content/media/collect/barran_temple_2888.jpg">https://en.wikipedia.org/wiki/Barran_Temple
+
+One of the artifacts discovered at this location was an inscribed altar which has been dated to the seventh or sixth centuries BC. According to the inscription, the altar was donated to the temple by "Bi'athtar, son of Sawad, son of Naw'an, the Nihmite"]]></description>
+				<styleUrl>#failed7</styleUrl>
+				<Point>
+					<coordinates>45.35568152199215,15.40427802836217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tayma</name>
+				<description><![CDATA[<a href="https://en.wikipedia.org/wiki/Tayma">https://en.wikipedia.org/wiki/Tayma </a>
+
+ <BR/>
+
+<img src="https://thesignaturehotels.files.wordpress.com/2014/03/tayma-31.jpg">
+
+ <BR/>
+
+<img src="https://thesignaturehotels.files.wordpress.com/2014/03/tayma-5.jpg">
+
+ <BR/>
+
+<img src="https://thesignaturehotels.files.wordpress.com/2014/03/tayma-5.jpg?w=640">
+
+ <BR/> <BR/>
+
+Based on this discovery, researchers have hypothesized that Tayma was part of an important land route between the Red Sea coast of the Arabian Peninsula and the Nile Valley.
+
+The oldest mention of the oasis city appears as "Tiamat" in Assyrian inscriptions dating as far back as the 8th century BC. The oasis developed into a prosperous city, rich in water wells and handsome buildings.
+
+It was rich and proud enough in the 7th century BC for Jeremiah to prophesy against it (Jeremiah 25:23).
+
+Cuneiform inscriptions possibly dating from the 6th century BC have been recovered from Tayma. It is mentioned several times in the Old Testament. The biblical eponym is apparently Tema, one of the sons of Ishmael.
+
+According to Arab tradition, Tayma was inhabited by a Jewish community during the late classical period, though whether these were exiled Judeans or the Arab descendants of converts is unclear.]]></description>
+				<styleUrl>#msn_ranger_station</styleUrl>
+				<Point>
+					<coordinates>38.5535,27.6347,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nahom - LDS academics</name>
+				<description>https://en.wikipedia.org/wiki/Nahom</description>
+				<styleUrl>#mfailed0</styleUrl>
+				<Point>
+					<coordinates>44.615,15.88,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moses Crossing - Arabia</name>
+				<Camera>
+					<longitude>34.84718814002265</longitude>
+					<latitude>28.92710987793812</latitude>
+					<altitude>20322.90627038017</altitude>
+					<heading>-25.46129986150131</heading>
+					<tilt>21.22904421326708</tilt>
+					<roll>-3.788381378425874</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>34.86360993898882,29.001367,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moses Crossing - Egypt</name>
+				<Camera>
+					<longitude>34.73662816794106</longitude>
+					<latitude>28.98843206430246</latitude>
+					<altitude>9831.474803810414</altitude>
+					<heading>-26.57791202778807</heading>
+					<tilt>16.6166427403764</tilt>
+					<roll>-4.796568026419751</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>34.6831076954972,29.00056523387046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mountain - Jabal Umm ad Dami</name>
+				<description>Highest in Jordan</description>
+				<LookAt>
+					<longitude>35.42720617166653</longitude>
+					<latitude>29.30529292677642</latitude>
+					<altitude>0</altitude>
+					<heading>6.479610872274461</heading>
+					<tilt>19.28491296012812</tilt>
+					<range>1652.499904480784</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_flag</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.4329315825341,29.3073922135355,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moses - Split Rock of Moses</name>
+				<styleUrl>#failed100</styleUrl>
+				<Point>
+					<coordinates>35.236,28.7266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ancient Bloomery</name>
+				<description>The earliest bloomery in the region has been discovered in the archaelogical record (900 BC) in Tell Hammeh
+
+https://en.wikipedia.org/wiki/Tell_Hammeh</description>
+				<styleUrl>#failed11</styleUrl>
+				<Point>
+					<coordinates>35.65,32.19,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Timna Valley - Smelting</name>
+				<LookAt>
+					<longitude>34.96145703878971</longitude>
+					<latitude>29.76024952586715</latitude>
+					<altitude>0</altitude>
+					<heading>0.019695969866458</heading>
+					<tilt>35.79104596411506</tilt>
+					<range>9579.527324948087</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>34.93,29.75,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Timna Valley</name>
+				<description>https://archaeology.tau.ac.il/ben-yosef/CTV/</description>
+				<color>52ffffff</color>
+				<Icon>
+					<href>files/timna.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>29.82801597643391</north>
+					<south>29.70328606963099</south>
+					<east>35.01204824663124</east>
+					<west>34.90000510842847</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Bountiful - Old World</name>
+				<LookAt>
+					<longitude>53.31590348361159</longitude>
+					<latitude>16.76594874603207</latitude>
+					<altitude>0</altitude>
+					<heading>-0.005995139175148732</heading>
+					<tilt>60.01015953077888</tilt>
+					<range>1306.006424699569</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>53.313,16.768,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Temple Solomon</name>
+				<LookAt>
+					<longitude>35.23690678100496</longitude>
+					<latitude>31.77562429190492</latitude>
+					<altitude>11.55105000523653</altitude>
+					<heading>0</heading>
+					<tilt>45</tilt>
+					<range>1000</range>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<Model id="model_1">
+					<Location>
+						<longitude>35.23698545139841</longitude>
+						<latitude>31.77747412333948</latitude>
+						<altitude>0</altitude>
+					</Location>
+					<Orientation>
+						<heading>-90.2609705555805</heading>
+						<tilt>0</tilt>
+						<roll>0</roll>
+					</Orientation>
+					<Scale>
+						<x>2.59663841619621</x>
+						<y>2.55115756773511</y>
+						<z>2.57389799196566</z>
+					</Scale>
+					<Link>
+						<href>files/model.dae</href>
+					</Link>
+					<ResourceMap>
+						<Alias>
+							<targetHref>Golf_Leaf.jpg</targetHref>
+							<sourceHref>model/Golf_Leaf.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>Golf_Leaf_Arc.jpg</targetHref>
+							<sourceHref>model/Golf_Leaf_Arc.jpg</sourceHref>
+						</Alias>
+					</ResourceMap>
+				</Model>
+			</Placemark>
+			<GroundOverlay>
+				<name>Temple - Solomon - location</name>
+				<color>57ffffff</color>
+				<Icon>
+					<href>files/temple-location.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>31.78109585122336</north>
+					<south>31.77554139124541</south>
+					<east>35.23815658960582</east>
+					<west>35.23313091149326</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>19 degrees north</name>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						40.56187631912978,18.99979385658652,0 62.70851783417386,19.00339286364354,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Document>
+				<name>Temple_Mount.kmz</name>
+				<open>1</open>
+				<StyleMap id="msn_ylw-pushpin10">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#sn_ylw-pushpin20</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#sh_ylw-pushpin40</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="sn_ylw-pushpin20">
+					<IconStyle>
+						<scale>1.1</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<Style id="sh_ylw-pushpin40">
+					<IconStyle>
+						<scale>1.3</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<Placemark>
+					<name>Temple Mount</name>
+					<description><![CDATA[The Temple Mount or Noble Sanctuary is situated on an ancient man-made platform located on the Judaean Hills in Jerusalem. In the beliefs of  Jews, Muslims and Christians is the Temple Mount a really historical sacred place located in the old city of Jerusalem. Depicted is the al-Aqsa Mosque and the Dome of the Rock. <br>
+<br>
+Find out more about Israel at <a href="http://www.nationsonline.org/oneworld/israel.htm">Nations Online Project: Israel</a> <br>]]></description>
+					<LookAt>
+						<longitude>35.23595481396421</longitude>
+						<latitude>31.7776519779376</latitude>
+						<altitude>0</altitude>
+						<heading>-138.6760010335444</heading>
+						<tilt>77.15204999397245</tilt>
+						<range>192.7294882090273</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<coordinates>35.23583357144724,31.77750366070319,0</coordinates>
+					</Point>
+				</Placemark>
+			</Document>
+			<Placemark>
+				<name>Mountain - Jabal al-Lawz</name>
+				<description>English translation	mountain of almonds</description>
+				<LookAt>
+					<longitude>35.30647821783497</longitude>
+					<latitude>28.66028862489084</latitude>
+					<altitude>0</altitude>
+					<heading>94.60704712118678</heading>
+					<tilt>47.46051848440671</tilt>
+					<range>4177.399307458342</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_flag</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.30378977310284,28.65431080977136,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Bison</name>
+				<Icon>
+					<href>files/bison.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>59.06731573783726</north>
+					<south>25.98299295905848</south>
+					<east>-62.34094703602651</east>
+					<west>-119.7584014435009</west>
+					<rotation>-2.875462532043457</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Bison Range</name>
+				<styleUrl>#msn_ylw-pushpin20</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-116.4461958005149,61.3926019495898,0 -118.5913214794328,58.84834416635405,0 -120.2733841577812,55.00648067934546,0 -119.8074420481162,52.57902785128851,0 -116.3296728052675,50.62138303992428,0 -116.8914272955006,47.79697945604444,0 -118.5154951106344,43.4032321471736,0 -118.2166984059119,40.52772477893665,0 -117.1959500760188,40.33850211310658,0 -115.8488542229241,40.71393814858548,0 -113.9968486919882,40.59745133955652,0 -113.1362477439162,39.62863687286438,0 -108.9282349749037,36.97757120792235,0 -108.2553112690913,35.25880834487813,0 -107.9710354270673,32.82294647141316,0 -105.3365931944451,29.54521527300638,0 -105.3637556875573,28.23943780789335,0 -103.5009127510698,24.55669135519694,0 -100.4001047127856,24.74573663270105,0 -98.23019455450826,25.37215292517852,0 -98.08229034934247,26.01460265031328,0 -97.56552797803485,28.70376791695898,0 -96.86149718664353,29.68961438115191,0 -94.95498346098513,30.74363695194558,0 -93.64593283047962,31.0283457292622,0 -92.27845829222247,30.24897365546635,0 -90.610405200184,29.65863833288206,0 -90.76124129033282,30.20988270970441,0 -90.10860185428156,30.67950508673451,0 -88.98353351263447,31.23870184286381,0 -87.97352365316098,34.39205708114395,0 -86.06593740726078,34.6908332868923,0 -84.67628934617696,31.67965118698738,0 -82.06421053884297,30.81719958589561,0 -81.16324583115774,32.31666900237428,0 -80.13948595842271,34.89728291434327,0 -78.52400728913271,36.67856222928867,0 -76.51555708111658,40.43767331438638,0 -76.89908189608474,40.81003644556719,0 -78.34264088255347,42.16505402433124,0 -80.5649501996906,40.55085038723789,0 -83.748464946665,40.31382977385638,0 -87.49843388109606,40.4941890510259,0 -88.47190147418699,41.82018308714383,0 -89.43637069932278,45.75955110287841,0 -92.34021303397539,46.55889602311873,0 -99.10863497494823,52.28262783271075,0 -105.1036191231186,54.84953411981663,0 -107.2926327385697,55.25436904075045,0 -109.2002432780539,58.59834290907301,0 -110.3064069393096,61.9132959781448,0 -112.64830151205,62.71180693625292,0 -114.1702286636582,62.95545656099519,0 -116.4461958005149,61.3926019495898,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>29 North</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						35.03975223595222,29.00008130661141,0 34.47177781416295,29.00009217342612,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>28 North</name>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						35.27547209599739,28.00004497808546,0 34.30552808513056,28.00010054422412,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Folder>
+				<name>Time of Jesus</name>
+				<open>1</open>
+				<GroundOverlay>
+					<name>Jerusalem - Herod</name>
+					<color>66ffffff</color>
+					<Icon>
+						<href>files/Jerusalem-Herod.png</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>31.7852658344447</north>
+						<south>31.76723914738916</south>
+						<east>35.24341829419536</east>
+						<west>35.22217152914165</west>
+						<rotation>0.3106777966022492</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<Placemark>
+					<name>Cross - Golgotha</name>
+					<styleUrl>#m_ylw-pushpin3</styleUrl>
+					<Model id="model_2">
+						<altitudeMode>relativeToGround</altitudeMode>
+						<Location>
+							<longitude>35.23005271021578</longitude>
+							<latitude>31.78376672844238</latitude>
+							<altitude>2</altitude>
+						</Location>
+						<Orientation>
+							<heading>-27.6410021261866</heading>
+							<tilt>0</tilt>
+							<roll>0</roll>
+						</Orientation>
+						<Scale>
+							<x>1.000003071016062</x>
+							<y>1.40311870724537</y>
+							<z>1.201560889130716</z>
+						</Scale>
+						<Link>
+							<href>files/model_01.dae</href>
+						</Link>
+						<ResourceMap>
+							<Alias>
+								<targetHref>Carpet_Plush_Charcoal.jpg</targetHref>
+								<sourceHref>model/Carpet_Plush_Charcoal.jpg</sourceHref>
+							</Alias>
+							<Alias>
+								<targetHref>Wood_Cherry_Original.jpg</targetHref>
+								<sourceHref>model/Wood_Cherry_Original.jpg</sourceHref>
+							</Alias>
+						</ResourceMap>
+					</Model>
+				</Placemark>
+				<Placemark>
+					<name>Temple - Herod</name>
+					<LookAt>
+						<longitude>35.23726252969651</longitude>
+						<latitude>31.77629011349788</latitude>
+						<altitude>13.77836785645637</altitude>
+						<heading>0</heading>
+						<tilt>45</tilt>
+						<range>1000</range>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin3</styleUrl>
+					<Model id="model_1">
+						<altitudeMode>relativeToGround</altitudeMode>
+						<Location>
+							<longitude>35.238852</longitude>
+							<latitude>31.77580775126618</latitude>
+							<altitude>60</altitude>
+						</Location>
+						<Orientation>
+							<heading>-92.49924737482185</heading>
+							<tilt>0</tilt>
+							<roll>0</roll>
+						</Orientation>
+						<Scale>
+							<x>2.898901726312977</x>
+							<y>3.217881508768635</y>
+							<z>3.058391617540806</z>
+						</Scale>
+						<Link>
+							<href>files/model_02.dae</href>
+						</Link>
+						<ResourceMap>
+						</ResourceMap>
+					</Model>
+				</Placemark>
+				<Placemark>
+					<name>37 North</name>
+					<styleUrl>#msn_ylw-pushpin1</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-90.00259748609331,37.00227370532098,0 -85.00941026142019,37.0098551031717,0 -80.00834388956487,37.00427143196083,0 -75.01106447022219,37.01576280299547,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mounds - North</name>
+			<open>1</open>
+		</Folder>
+		<Folder>
+			<name>Mounds - South</name>
+		</Folder>
+		<Folder>
+			<name>Rio de la Plata</name>
+			<open>1</open>
+			<Placemark>
+				<name>Dock Boat - Puerto Primero</name>
+				<LookAt>
+					<longitude>-54.58265442520008</longitude>
+					<latitude>-25.99071922165192</latitude>
+					<altitude>0</altitude>
+					<heading>0.3685685498059654</heading>
+					<tilt>2.889889691772906</tilt>
+					<range>10391.83683070304</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-54.61707854932262,-25.9812949653723,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mouth of Rio de La Plata</name>
+				<LookAt>
+					<longitude>-53.92791533034933</longitude>
+					<latitude>-35.24754848744876</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03192978942048468</heading>
+					<tilt>0.9386908149642663</tilt>
+					<range>800357.1542024228</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-54.76416144933042,-35.94445860250998,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Posadas</name>
+				<LookAt>
+					<longitude>-55.74008502669648</longitude>
+					<latitude>-27.43440342928917</latitude>
+					<altitude>0</altitude>
+					<heading>0.510624228354621</heading>
+					<tilt>0</tilt>
+					<range>28152.72627463183</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-55.8104219401283,-27.43820586972662,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corrientes</name>
+				<LookAt>
+					<longitude>-58.58013049412295</longitude>
+					<latitude>-27.30802143191309</latitude>
+					<altitude>0</altitude>
+					<heading>1.737932149549228</heading>
+					<tilt>21.83569105764565</tilt>
+					<range>387.0611482680508</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-58.58082943283631,-27.30732097513348,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosario</name>
+				<LookAt>
+					<longitude>-60.60595169786438</longitude>
+					<latitude>-32.95486436971743</latitude>
+					<altitude>0</altitude>
+					<heading>2.748258136315104</heading>
+					<tilt>11.91706047801501</tilt>
+					<range>1045.882734740467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-60.60919102121714,-32.95304403428187,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ocean to Rosario</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-54.76028387296315,-35.93011299118621,0 -55.94894492421417,-35.50253497765748,0 -58.32178050569328,-34.38749420052328,0 -58.42430083449605,-34.31928834796615,0 -58.48667059651495,-34.32268489508141,0 -58.51552027077952,-34.30051488666835,0 -58.54457011592526,-34.30184270073509,0 -58.58914753078744,-34.27919166950132,0 -58.71252765928823,-34.24881544055923,0 -58.77755762816638,-34.23571320028336,0 -58.79938391974697,-34.22633136528985,0 -58.84392992463173,-34.19522187126952,0 -58.85726680204976,-34.18098993749492,0 -58.86982316121822,-34.17825435754624,0 -58.88670460938162,-34.1812408207866,0 -58.89481896135808,-34.18404975157507,0 -58.90257095659656,-34.18315967019422,0 -58.91672321610826,-34.15685464824139,0 -58.92936097570666,-34.14947674679947,0 -58.94131048813692,-34.15037196108756,0 -58.95769555546923,-34.15356867899268,0 -58.97738474549942,-34.14478358794573,0 -58.98378523750317,-34.13937130130809,0 -58.98439552659878,-34.13552211154451,0 -58.97748163897256,-34.13268145338778,0 -58.97171149530988,-34.12758983472644,0 -58.97687018092114,-34.11330550946583,0 -58.99057380277063,-34.10727345969179,0 -59.00913067356664,-34.10009233657532,0 -59.01308422937885,-34.08674229654037,0 -59.02726508954299,-34.07164383144042,0 -59.03509292156141,-34.06173952130812,0 -59.04037361686478,-34.04607024248418,0 -59.04861057982734,-34.04060218254386,0 -59.06600399242564,-34.04207319892149,0 -59.08173496839181,-34.04280915746241,0 -59.09756421301058,-34.03965870842279,0 -59.11152929295718,-34.02435133517999,0 -59.14699697162918,-34.00412525113376,0 -59.14493238889737,-33.9991468816122,0 -59.13973878926809,-33.99390347276381,0 -59.14192727031903,-33.99101522635988,0 -59.15240797527424,-33.98558853237426,0 -59.16417239547209,-33.97697586830832,0 -59.17337977367003,-33.9741439380141,0 -59.18100392780943,-33.95961482218924,0 -59.18878907454001,-33.95882662408873,0 -59.20197889098819,-33.96230195114101,0 -59.20541973605591,-33.96220443822835,0 -59.21264918488841,-33.95272846635531,0 -59.25326776113383,-33.94756692980832,0 -59.2592681664432,-33.94153350013518,0 -59.25925136742738,-33.93581161035619,0 -59.25220435759552,-33.93085959262051,0 -59.22931479970627,-33.92693443281722,0 -59.2276813954185,-33.91952343021791,0 -59.23355410336855,-33.90944117147885,0 -59.23775750201415,-33.90082978607935,0 -59.24739487699033,-33.89292932532302,0 -59.25614744405138,-33.88995115555345,0 -59.27681594263104,-33.86925152356771,0 -59.29756366232711,-33.86183314249186,0 -59.30345696846275,-33.85062073890978,0 -59.29180781060303,-33.83589322781727,0 -59.29371385744582,-33.83172290149608,0 -59.32047359692796,-33.8328696140989,0 -59.3400547908945,-33.82518589860357,0 -59.3476138506899,-33.8146203611022,0 -59.34382839773365,-33.80315564978933,0 -59.33291334275295,-33.79377178660224,0 -59.30479034016788,-33.78751462262897,0 -59.28349668338001,-33.78189014704515,0 -59.26681527639167,-33.76931064027301,0 -59.26687512888503,-33.75314669699957,0 -59.27880222861338,-33.73582118153882,0 -59.29010184356289,-33.72874820768195,0 -59.30462920349753,-33.72880829427683,0 -59.4266752355536,-33.73395505540728,0 -59.46049994967946,-33.71829614018753,0 -59.47145457835634,-33.68798318962047,0 -59.47980363696888,-33.65054874403483,0 -59.49561924101254,-33.64669492558826,0 -59.5147555757563,-33.65368242372357,0 -59.56699064046173,-33.66547248153274,0 -59.59403578287883,-33.69199170279939,0 -59.62377600820121,-33.68517602947024,0 -59.63553211586188,-33.64402731089729,0 -59.65673537834323,-33.62470176105516,0 -59.70447132987771,-33.63117062139602,0 -59.75464768145625,-33.61411855185571,0 -59.80940232340308,-33.58851191352942,0 -59.80573536022193,-33.56160345746862,0 -59.81824528317846,-33.53249810117561,0 -59.86103819190161,-33.51957680324557,0 -59.90415637822323,-33.50451020500399,0 -59.92627908668823,-33.47874826406686,0 -59.96276212478585,-33.46943970681103,0 -59.99006143538712,-33.47388619364176,0 -60.05822309969157,-33.43464115869076,0 -60.07632373326448,-33.42101145451225,0 -60.08694314559268,-33.39288294294605,0 -60.11276455264458,-33.36835754169886,0 -60.14910173248271,-33.35705733652343,0 -60.16731440303554,-33.34760889930675,0 -60.1907643931465,-33.3077339886566,0 -60.23334767517279,-33.27678292551084,0 -60.27340607768123,-33.25634604332242,0 -60.29787755174896,-33.23810068888432,0 -60.28691608130585,-33.21803614214176,0 -60.27852794071266,-33.20164300208113,0 -60.29319172396696,-33.18998484986089,0 -60.31517404175028,-33.17697524014074,0 -60.34061798270427,-33.17950365826887,0 -60.37516150138313,-33.18251349284859,0 -60.385126726968,-33.17397467098149,0 -60.3884553365144,-33.15707132260756,0 -60.40795796937145,-33.14885299083453,0 -60.47014186111904,-33.14885775789642,0 -60.50508937140041,-33.12206558311492,0 -60.52010108162541,-33.08469978439648,0 -60.56715644420315,-33.04043665960026,0 -60.6074765159098,-32.99106184886664,0 -60.60918434856515,-32.95298847865858,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Rosario to Corrientes</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-60.60918316195816,-32.95299873093794,0 -60.63597522316935,-32.93569046467978,0 -60.66976099380588,-32.90789492767854,0 -60.68911376373529,-32.85388714530241,0 -60.70878229250162,-32.78524042698815,0 -60.72031047169137,-32.76178710920335,0 -60.72319157174286,-32.72736211751166,0 -60.71564977841561,-32.68504072564447,0 -60.73194915098475,-32.65017160294206,0 -60.74768326859524,-32.63032130073265,0 -60.75309045798807,-32.61046178188673,0 -60.74425873937315,-32.56888615099698,0 -60.75836559113228,-32.53380006837166,0 -60.77318707751867,-32.51098502453683,0 -60.75508350513304,-32.48766444340203,0 -60.73052907659504,-32.46363505481062,0 -60.71915266743939,-32.43269907400425,0 -60.71454432991708,-32.3834413347621,0 -60.73853790878586,-32.34840782145949,0 -60.72511435606031,-32.32799531007263,0 -60.7029349370358,-32.32397622598159,0 -60.68000457078114,-32.32360715782807,0 -60.67671011374785,-32.30684035367592,0 -60.67868425953202,-32.28717332516867,0 -60.67423793774373,-32.24359919703872,0 -60.67851461168861,-32.2133847270177,0 -60.70131804223216,-32.18174793597279,0 -60.70517331973657,-32.14442595016874,0 -60.66555677091212,-32.10241596552356,0 -60.65861711461098,-32.08268866822079,0 -60.66445288560801,-32.06287220859997,0 -60.67374267858008,-32.04591738012245,0 -60.68068159334441,-32.01507080525041,0 -60.70369344104974,-32.00804640876176,0 -60.7162270129989,-32.00391566785197,0 -60.7207638299889,-31.99863827625105,0 -60.72191029782657,-31.96148964797676,0 -60.66331677827183,-31.92463201720623,0 -60.64988083086139,-31.89237049286205,0 -60.65600363897369,-31.84046793074624,0 -60.6396843380274,-31.79122080038867,0 -60.64252014513054,-31.75960318146885,0 -60.63532602310804,-31.74163187321458,0 -60.59513485470717,-31.72341838572471,0 -60.56368987778996,-31.69297399070426,0 -60.50612845128416,-31.70382576837252,0 -60.47273929812942,-31.69826427423727,0 -60.45108657348167,-31.67960147018026,0 -60.40834182858038,-31.64817368473025,0 -60.34879068488326,-31.62053664102502,0 -60.32778179687998,-31.60097316326547,0 -60.32938961190891,-31.59139531354975,0 -60.33642893903992,-31.57946935364294,0 -60.34168311249771,-31.55843559160199,0 -60.34110202768784,-31.54730100756857,0 -60.33883111348602,-31.54082652724611,0 -60.33062740469937,-31.53507438204937,0 -60.25839023678478,-31.53425000622609,0 -60.23630261731792,-31.52595092161371,0 -60.2244508962699,-31.51278721518991,0 -60.22240195289952,-31.4992506102264,0 -60.21838536824955,-31.47003877246729,0 -60.18891667851558,-31.46180468752842,0 -60.15692153622958,-31.45089815659084,0 -60.13912778548887,-31.43007715683091,0 -60.13814413306195,-31.41075634254034,0 -60.11268645357298,-31.38885592052479,0 -60.09179131570511,-31.36716113256857,0 -60.08600367324541,-31.32850144395014,0 -60.09294212218349,-31.29111627348766,0 -60.06140705925909,-31.27113859411019,0 -60.01829335825057,-31.25341072977292,0 -59.99288510858318,-31.21677520205492,0 -59.97461254249554,-31.17125051861597,0 -59.92332142686242,-31.10853826717556,0 -59.90272479955631,-31.0890183000845,0 -59.85107740085402,-31.00258857276468,0 -59.78152176462338,-30.92220075580708,0 -59.75793030447163,-30.89364705603214,0 -59.73259313462259,-30.87090788838232,0 -59.71206575768461,-30.83602727428142,0 -59.68322029584294,-30.8011174545976,0 -59.66488032409024,-30.75301382230067,0 -59.64051692849058,-30.7267812957103,0 -59.62836611581283,-30.70574538371871,0 -59.62794884810453,-30.69231567132524,0 -59.63754542826883,-30.6810063653198,0 -59.65295636784527,-30.65966914331949,0 -59.6561683080079,-30.62499667758092,0 -59.64912537000139,-30.58775970063396,0 -59.64621832070646,-30.54914816652885,0 -59.65068337168474,-30.5260016043121,0 -59.6495728301769,-30.4890254019187,0 -59.66764196961667,-30.46705693750128,0 -59.69117136816226,-30.45957520478797,0 -59.69907066435784,-30.43200182988872,0 -59.69249561028253,-30.4092706537461,0 -59.68474427276921,-30.3857246428877,0 -59.68447516015844,-30.35059929717356,0 -59.67059944369293,-30.32995155242475,0 -59.66403884859718,-30.30261381974579,0 -59.64573186548168,-30.25504910036119,0 -59.64469879832654,-30.2156968370881,0 -59.63655319675534,-30.1908942316869,0 -59.62795104818576,-30.15593728821257,0 -59.62894471090651,-30.12323523831266,0 -59.62418446799153,-30.1019161069426,0 -59.60327528595477,-30.08346018859356,0 -59.58862020447894,-30.06086856157419,0 -59.59027637648813,-30.02999608957141,0 -59.58901312385333,-29.99317271423631,0 -59.59440215918582,-29.96567829601137,0 -59.59804525338578,-29.92874646351681,0 -59.61038371095472,-29.90020898718609,0 -59.62859495727038,-29.87492426311069,0 -59.66374910697059,-29.84512999085479,0 -59.64989956036571,-29.80217769255401,0 -59.62472205017545,-29.77492587953635,0 -59.61171648754843,-29.75198316474345,0 -59.61697494317855,-29.73033864961445,0 -59.62952609881527,-29.69434408614475,0 -59.63100962086158,-29.66022151296084,0 -59.6150149446747,-29.63378243118406,0 -59.60670995841218,-29.60018782795621,0 -59.61051146290406,-29.58826075016334,0 -59.62515434528584,-29.54875615731324,0 -59.62727093051646,-29.52349975891083,0 -59.59389184760138,-29.47469392060513,0 -59.58519353205757,-29.45427755611269,0 -59.58892022908792,-29.43185447366036,0 -59.60692754481524,-29.40976129975762,0 -59.58535352794101,-29.36859846261707,0 -59.57467364341261,-29.36362346482283,0 -59.55780632389462,-29.36074773443848,0 -59.5141764520126,-29.34319681377627,0 -59.51128732260131,-29.32282571470651,0 -59.51208314543666,-29.28491739255612,0 -59.51316832304575,-29.25386980374514,0 -59.47738484396519,-29.24174130790174,0 -59.43200864944515,-29.22610369362174,0 -59.3546457941368,-29.20779077804206,0 -59.34959167412887,-29.18087393836355,0 -59.34115700867359,-29.16757196998221,0 -59.33838964514799,-29.15078577885149,0 -59.33473104535131,-29.13501448783593,0 -59.34087748884874,-29.12514567889237,0 -59.32019567620689,-29.1105597391246,0 -59.27040034120952,-29.09684427332604,0 -59.23617290213341,-29.07137214920446,0 -59.21396336383,-29.05670396246678,0 -59.19922140489879,-29.03045877116205,0 -59.20812759999131,-29.00518903863299,0 -59.21468107934833,-28.97746464365532,0 -59.19803476659107,-28.95696574907847,0 -59.17508048232263,-28.94014471570708,0 -59.17261829059336,-28.90679460845094,0 -59.17346132418724,-28.89046609985434,0 -59.15896294385331,-28.8647528496269,0 -59.14300268526725,-28.83959843528326,0 -59.137306867065,-28.81701109117595,0 -59.14034915156634,-28.79481846600172,0 -59.13407144021579,-28.76851026009884,0 -59.12017248224808,-28.73548088773741,0 -59.09696730494856,-28.69463971480695,0 -59.08826537443188,-28.66322306343453,0 -59.10923353156564,-28.61750422968587,0 -59.11513889505351,-28.58680884637408,0 -59.10705077142094,-28.55666160954067,0 -59.09466711014196,-28.54234671025793,0 -59.06820689923698,-28.53315364044959,0 -59.06494648958478,-28.51654059226334,0 -59.06065391544383,-28.47087534464847,0 -59.08582633022797,-28.4429386433503,0 -59.09104997961487,-28.4335984386817,0 -59.08196082972626,-28.41550078274615,0 -59.06829547269551,-28.39450557727177,0 -59.06815992383709,-28.37190906229322,0 -59.08475255725325,-28.35355426714542,0 -59.10002585826895,-28.33498034342764,0 -59.09960560537435,-28.291004747834,0 -59.11325605002406,-28.2503568627433,0 -59.11071947922615,-28.22833786793857,0 -59.06885938486495,-28.14025222889074,0 -59.04945975690302,-28.13312177316957,0 -58.96536227662378,-28.139393159776,0 -58.92096001893161,-28.11092390441749,0 -58.87754033734535,-28.06974246296743,0 -58.83195473259876,-28.03017094886983,0 -58.82953595554955,-28.01786450200971,0 -58.83132933493403,-28.00432863628868,0 -58.83313404854188,-27.9696923525576,0 -58.83169235826239,-27.94143550196264,0 -58.84437453656541,-27.90149915872059,0 -58.83054069628473,-27.8673836159709,0 -58.81203788584224,-27.79556418725,0 -58.81887308009394,-27.75497607232685,0 -58.81390672525074,-27.71288357970142,0 -58.82650410406822,-27.67061592619319,0 -58.84757052249661,-27.6395070998354,0 -58.88122409981376,-27.61099946889946,0 -58.88829547352472,-27.58173702682739,0 -58.88435613919597,-27.55331104227457,0 -58.88030079912851,-27.51106901794153,0 -58.87844219068731,-27.4803211433395,0 -58.82831072026994,-27.44630005286571,0 -58.78832600386904,-27.42976182528495,0 -58.74132429585282,-27.38125138522693,0 -58.67106960091458,-27.35525138110273,0 -58.63446602282567,-27.32155483804984,0 -58.58913073366774,-27.31496966510834,0 -58.58081542459594,-27.30731613574109,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Corrientes to Posada</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-58.58081841161898,-27.30767942297834,0 -58.53039750055357,-27.29281229483204,0 -58.49994590184524,-27.27201236535922,0 -58.44923888282887,-27.27817424775348,0 -58.40405940736904,-27.28696779218678,0 -58.31396789459361,-27.275820343198,0 -58.28907995551352,-27.2708267437798,0 -58.27592991871425,-27.25215592837456,0 -58.25152884259897,-27.24903163736008,0 -58.20938540189758,-27.24763642499288,0 -58.15244114310467,-27.26929389349564,0 -58.09875167778977,-27.27409508082682,0 -58.06683399042266,-27.25994179048989,0 -57.96155681346956,-27.27276254076266,0 -57.93157422451034,-27.2628200912935,0 -57.88268026387471,-27.27450463068859,0 -57.85617192714059,-27.28829764653075,0 -57.8210841822707,-27.33094178099538,0 -57.76775841003349,-27.33819904584647,0 -57.7017435007296,-27.32188374714616,0 -57.68266305112422,-27.33541694641508,0 -57.66127513064632,-27.36118454778996,0 -57.61359228133242,-27.38488759608103,0 -57.58737334387953,-27.38485130713056,0 -57.57824238433699,-27.38019144902139,0 -57.55839922068315,-27.38318802326704,0 -57.54467426565604,-27.38163665792255,0 -57.51093887968535,-27.3964731632506,0 -57.45706331143331,-27.40486196542082,0 -57.40193377533744,-27.41226630793264,0 -57.37278943922187,-27.42094105545363,0 -57.32321632980085,-27.41218424131109,0 -57.27996511693214,-27.43499321661046,0 -57.24285437649554,-27.46069534313136,0 -57.2211757993465,-27.4693899408015,0 -57.18654998182186,-27.46916470093027,0 -57.13323311295925,-27.48847450858727,0 -57.0416367711921,-27.48049966051829,0 -57.02016316385807,-27.47107655089757,0 -56.99365469957247,-27.44997278942933,0 -56.95595589728125,-27.42623858508021,0 -56.93059708444125,-27.41255598123188,0 -56.89656499282202,-27.41124806606075,0 -56.86107996997767,-27.42830428779255,0 -56.8148119944379,-27.46772685051155,0 -56.77108972362406,-27.49128929556617,0 -56.73611426798544,-27.49884692075512,0 -56.72177863527864,-27.49486090536342,0 -56.71794446785412,-27.4576860286269,0 -56.58973089155617,-27.42902913606611,0 -56.11137639092977,-27.30594520512706,0 -56.05680534487612,-27.2994457660207,0 -55.99571342435307,-27.33406113104884,0 -55.93005472249872,-27.32470041386286,0 -55.88124035387543,-27.35071784063475,0 -55.84524621132859,-27.41367550731926,0 -55.80871091779715,-27.43858330548151,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Posada to Puerto Primero</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-55.80952742375245,-27.43747702883494,0 -55.7302993925604,-27.44534775279927,0 -55.71228156594927,-27.40955812702733,0 -55.68669890736673,-27.38179906318348,0 -55.67652254800269,-27.37491510856147,0 -55.65017989800312,-27.36808468844132,0 -55.61537051933303,-27.34739141084646,0 -55.59068801883691,-27.32401246778401,0 -55.58773251099163,-27.31462974404202,0 -55.60161137406039,-27.29216804926944,0 -55.59986018865798,-27.27915259596635,0 -55.57641552488614,-27.25708257866398,0 -55.58940484286235,-27.22699461057857,0 -55.6189769219863,-27.20471138784815,0 -55.61771659303856,-27.17169453442335,0 -55.60260723133143,-27.16109506456387,0 -55.59107305599767,-27.16133043736897,0 -55.57711263864016,-27.16727594555182,0 -55.56495681351007,-27.16387747422704,0 -55.56094363136145,-27.15360134096402,0 -55.5658280908496,-27.11404363819763,0 -55.55608378940606,-27.10318832533368,0 -55.53590526837544,-27.10201261244935,0 -55.48038263710687,-27.10961462268745,0 -55.4530873079756,-27.10360631970302,0 -55.45090125336919,-27.08399313339491,0 -55.45636022043288,-27.0644769788487,0 -55.45046066166,-27.03872662813099,0 -55.44135147482522,-27.01830783871513,0 -55.42264368006256,-26.99463322498313,0 -55.39187348219952,-26.97479309145607,0 -55.37364773956072,-26.96522491767979,0 -55.33613517582763,-26.96335071173843,0 -55.29910167522812,-26.96089958600481,0 -55.27287973423123,-26.94119662642266,0 -55.25559362787973,-26.937217169346,0 -55.24270181247722,-26.94017717965745,0 -55.22386741200457,-26.95566083319584,0 -55.20829282319497,-26.96870809829976,0 -55.19125671774687,-26.96801495870806,0 -55.16043028673998,-26.95733108894022,0 -55.13531694000394,-26.94995214797679,0 -55.13062945013867,-26.93779079348619,0 -55.13575214224803,-26.92718381573831,0 -55.14666074763625,-26.90649775235966,0 -55.1496391123635,-26.8915245446698,0 -55.14259277175842,-26.86805073454324,0 -55.13030164458416,-26.85425839365411,0 -55.1088763591962,-26.84320822295875,0 -55.08842210265605,-26.83323227051564,0 -55.07474623565985,-26.81568192412017,0 -55.0630689655387,-26.80399328567092,0 -55.04034411568222,-26.79389045553164,0 -55.02042194105961,-26.78882253110331,0 -54.99139659645292,-26.78858368964133,0 -54.96995859738658,-26.78962977345113,0 -54.95551405978401,-26.78198240619359,0 -54.94665039179595,-26.76343786293836,0 -54.94356979784386,-26.73719462125759,0 -54.94774184643349,-26.70945903929808,0 -54.94649830865267,-26.69238515917211,0 -54.94100391171776,-26.68156908969785,0 -54.91643981806352,-26.66812872798138,0 -54.88337095086381,-26.65761027407138,0 -54.86150803162266,-26.65589275574668,0 -54.84881188635429,-26.66051732296589,0 -54.83973134638972,-26.66946902457478,0 -54.83253381476144,-26.67361235354142,0 -54.82360453926711,-26.67425573349531,0 -54.81528731508527,-26.6714071077341,0 -54.80378653131656,-26.65477361410467,0 -54.79185881695597,-26.63796663773157,0 -54.78561749189659,-26.6230235451079,0 -54.78366823784997,-26.60672666958363,0 -54.79066948585211,-26.58913506368116,0 -54.79921679558741,-26.57415848014753,0 -54.80777044742734,-26.5594857366059,0 -54.80486129021451,-26.54632444663322,0 -54.79695140774805,-26.52838532471439,0 -54.78543747697856,-26.5141126349946,0 -54.77399598296075,-26.50443057214949,0 -54.75701407369408,-26.49626184227634,0 -54.73945602375051,-26.4784218067063,0 -54.7173813066852,-26.46128010980365,0 -54.70485714067853,-26.44659134092226,0 -54.69844152150949,-26.4315533586152,0 -54.69698222508112,-26.40821462448765,0 -54.69765049968707,-26.38132577841643,0 -54.69459821022235,-26.37399759172014,0 -54.67890786075938,-26.35121598839931,0 -54.66409992788369,-26.33158834733873,0 -54.65152271014935,-26.32033073293469,0 -54.64875803276749,-26.30952743198412,0 -54.65522270228302,-26.29778857725191,0 -54.66354944471808,-26.28545545536966,0 -54.67331977551757,-26.27978882086454,0 -54.67981023513634,-26.2727006211507,0 -54.67941255209193,-26.26268798850213,0 -54.67107485785292,-26.25343048044612,0 -54.65434532295406,-26.24221974019838,0 -54.63241505520363,-26.22923259855631,0 -54.61938256995472,-26.21909332404175,0 -54.61794776102828,-26.20965671068923,0 -54.62403208118823,-26.19925644653744,0 -54.64177878340745,-26.18681844519627,0 -54.65725253467524,-26.17841199999067,0 -54.66849327662511,-26.16553840959442,0 -54.67400505528286,-26.14977489379511,0 -54.6744136963828,-26.14329949003302,0 -54.67235351799445,-26.13983008658514,0 -54.66734649339162,-26.13714425341538,0 -54.6628562041038,-26.12991983465901,0 -54.65431256705224,-26.12224134465428,0 -54.64528380332474,-26.10797350629243,0 -54.64329921131076,-26.09143465597057,0 -54.64678913754295,-26.07521221142893,0 -54.65378493915463,-26.05816470242003,0 -54.6644115655966,-26.04027048649871,0 -54.6795410768587,-26.01309254028771,0 -54.67865584004775,-25.9947396664645,0 -54.67129676640527,-25.98387755397924,0 -54.66146530778087,-25.97980379569304,0 -54.64768546786081,-25.98034081812488,0 -54.63652875216964,-25.98332092790625,0 -54.62351865539534,-25.98524928799741,0 -54.61668873127792,-25.98389779650256,0 -54.61538993889386,-25.98154881698862,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Puerto Primero to Puerto Iguazu</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-54.61536527747963,-25.98159017372895,0 -54.60960188727322,-25.97544186857598,0 -54.60789743150216,-25.96845871933083,0 -54.60687898317685,-25.96015793048799,0 -54.60940260263293,-25.95340178472079,0 -54.61440178870568,-25.94759569595392,0 -54.61832636436062,-25.94354858689503,0 -54.62060485789597,-25.93858425731593,0 -54.62156676165277,-25.93422581262973,0 -54.6220961523933,-25.92965571813639,0 -54.62198570932478,-25.92287825665217,0 -54.62237377704308,-25.91626653670422,0 -54.62052341087468,-25.90790069782753,0 -54.61865260546762,-25.90250468127753,0 -54.61599593615982,-25.8963993222219,0 -54.61369195924495,-25.8910964878575,0 -54.61086491103813,-25.88497903777179,0 -54.60740738146487,-25.87881100730463,0 -54.59640060723592,-25.86287485771922,0 -54.59444828332089,-25.85191893804243,0 -54.58981568811882,-25.84200731787317,0 -54.58683417697328,-25.83096779684006,0 -54.59080975132047,-25.81990122160462,0 -54.59775695534825,-25.81069082636879,0 -54.61040828659238,-25.7983437098413,0 -54.62221898882829,-25.78343206722745,0 -54.62959815172734,-25.77002183386435,0 -54.63325622949541,-25.75821819225608,0 -54.63428873871441,-25.74625114716555,0 -54.63605563020279,-25.73266857679663,0 -54.64138797846234,-25.71858357923126,0 -54.65030442033578,-25.70253616385796,0 -54.65708745948839,-25.68807431750876,0 -54.65793047269835,-25.67898294686469,0 -54.65496598955642,-25.66990785076574,0 -54.6475960420723,-25.6625435630569,0 -54.63900429100443,-25.65933118395775,0 -54.62963449949788,-25.65927305407194,0 -54.61919246947657,-25.66252551211518,0 -54.61005511310727,-25.66688189680399,0 -54.59689562277226,-25.66879649345081,0 -54.58600566603918,-25.66680078749204,0 -54.58118789754165,-25.66309615965038,0 -54.58080431888499,-25.65761197778353,0 -54.58432945612576,-25.65012937302937,0 -54.59068672127143,-25.63990418569026,0 -54.59551260882453,-25.62899609519792,0 -54.59697020468589,-25.62218751147545,0 -54.59616512908474,-25.61585541379175,0 -54.59653957408017,-25.60788740114612,0 -54.59489329715841,-25.59687716523356,0 -54.59343114999152,-25.5921247858548,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Puerto Iguazu to Cataratas de Iguazu</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-54.59341494546588,-25.59217385683614,0 -54.58463953985561,-25.59259769464341,0 -54.57524972050726,-25.59113343338235,0 -54.56606659251572,-25.59072422005681,0 -54.55829517139606,-25.58746583456912,0 -54.55216433088283,-25.5883555243981,0 -54.54532458338775,-25.59280093131746,0 -54.54111355052322,-25.59564831748384,0 -54.53515829278643,-25.59796737140941,0 -54.53360847557597,-25.60179777262739,0 -54.53539789020054,-25.61062479076274,0 -54.53808388926809,-25.61438627841674,0 -54.5378519383203,-25.6177874243965,0 -54.5365191312462,-25.62051882897548,0 -54.53329702669688,-25.62340220833297,0 -54.52510820280015,-25.62902874577096,0 -54.5215363046578,-25.62808523463613,0 -54.51819951618426,-25.62614522916046,0 -54.51505900017501,-25.62375642815104,0 -54.51144963005219,-25.61861332364926,0 -54.5055488331992,-25.61754552066935,0 -54.50356350256913,-25.61501826255471,0 -54.49939478079287,-25.61477113872596,0 -54.4933955822147,-25.61772076780707,0 -54.48722369994345,-25.62275172756773,0 -54.48410207400369,-25.62664370352857,0 -54.47915762942604,-25.62927783100206,0 -54.46934661516492,-25.63667334823175,0 -54.46588964301515,-25.64079337463122,0 -54.46298392138571,-25.64379327521975,0 -54.45424778339211,-25.65383646909342,0 -54.44947203000008,-25.65948740965767,0 -54.44696208374876,-25.66317376383573,0 -54.44481279434267,-25.66716443747469,0 -54.44340625292396,-25.67115396463023,0 -54.44254805640451,-25.67838377926499,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cataratas de Iguazu</name>
+				<LookAt>
+					<longitude>-54.4302264443674</longitude>
+					<latitude>-25.68614788491307</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1670535844598871</heading>
+					<tilt>19.49567015578401</tilt>
+					<range>3992.544588004521</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-54.44218377365286,-25.67921145854173,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puerto Iguazu</name>
+				<LookAt>
+					<longitude>-54.59241385656416</longitude>
+					<latitude>-25.59199719502437</latitude>
+					<altitude>0</altitude>
+					<heading>-0.09630877210867958</heading>
+					<tilt>34.62365812476649</tilt>
+					<range>255.3362631975271</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-54.59343764348202,-25.59215141129687,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cataratas de Guaíra</name>
+				<LookAt>
+					<longitude>-54.24999999901046</longitude>
+					<latitude>-24.05000000012434</latitude>
+					<altitude>0</altitude>
+					<heading>-4.032593475080778e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000177780467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-54.24999999901046,-24.05000000012433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puerto Iguazu to Cataratas de Guaíra</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-54.59334427954451,-25.59207426276001,0 -54.59368477707403,-25.58238169982366,0 -54.59467760022086,-25.57102104119081,0 -54.59501762152139,-25.56171484541545,0 -54.59463648300692,-25.55513522176515,0 -54.59454962233145,-25.5487571905469,0 -54.59471919954378,-25.5400823860795,0 -54.5961055818697,-25.53382875082844,0 -54.59988113410692,-25.52797928418317,0 -54.60117807141898,-25.52248280091296,0 -54.60134375356364,-25.5169975495132,0 -54.60076485800797,-25.51089516381319,0 -54.60114177506188,-25.50368378598305,0 -54.60254572159125,-25.49903758805774,0 -54.60323824069549,-25.49104358424534,0 -54.60201430842204,-25.48690701905117,0 -54.60347837535361,-25.48193724106635,0 -54.60992818012725,-25.47740532424001,0 -54.61671794512208,-25.471607282745,0 -54.61962464508474,-25.46499956151875,0 -54.62003506266093,-25.45609274320934,0 -54.61963165733684,-25.45092304653727,0 -54.61157025940118,-25.44749171865832,0 -54.60527352289802,-25.44293345048939,0 -54.60181510827607,-25.43551070461763,0 -54.59667618487057,-25.42281818804094,0 -54.59194319381968,-25.41546071416194,0 -54.58801598498711,-25.40347782770684,0 -54.58055827578653,-25.39349078592015,0 -54.56768609059754,-25.37587226159696,0 -54.48730030427678,-25.2824692787342,0 -54.43094472890481,-25.15607322155818,0 -54.46136015662038,-25.08760025615676,0 -54.44701635053995,-25.00346534240667,0 -54.41900909497974,-24.89069343216021,0 -54.3873743099097,-24.77991201792345,0 -54.34952556053005,-24.71997559094595,0 -54.321596628674,-24.64106892686712,0 -54.32262855725091,-24.56251088576581,0 -54.33772305051358,-24.50635341468552,0 -54.32189539017022,-24.4537127182034,0 -54.28325272973191,-24.40672139428232,0 -54.25943980881217,-24.3622526659708,0 -54.27036117901783,-24.31525619768141,0 -54.28533146219907,-24.28192672246538,0 -54.32308710275774,-24.25081041441113,0 -54.3344279942466,-24.17798285701125,0 -54.3420265950318,-24.16394398651898,0 -54.34285120074162,-24.13633079345245,0 -54.32598890685843,-24.11266270591949,0 -54.29828323746991,-24.08797442389794,0 -54.26377348663198,-24.06130777269199,0 -54.24902609898641,-24.04877941673271,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Document>
+			<name>default_my_places</name>
+			<open>1</open>
+			<Folder>
+				<name>My Places</name>
+				<open>1</open>
+				<Style>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open</state>
+							<href>files/mysavedplaces_open.png</href>
+						</ItemIcon>
+						<ItemIcon>
+							<state>closed</state>
+							<href>files/mysavedplaces_closed.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Folder>
+		</Document>
+		<gx:Tour kml:id="0x15aa53570ca5e4b7_0xdbd2632008c6b772_tour">
+			<name>Jebel al Lawz Tour</name>
+			<gx:Playlist>
+				<gx:FlyTo>
+					<gx:duration>5</gx:duration>
+					<Camera>
+						<longitude>35.3045654</longitude>
+						<latitude>28.6364372943176</latitude>
+						<altitude>3507</altitude>
+						<heading>0</heading>
+						<tilt>63.1742038080801</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.290090013575</longitude>
+						<latitude>28.6416987339803</latitude>
+						<altitude>3507</altitude>
+						<heading>44.9930600942049</heading>
+						<tilt>63.2813755905547</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.2840916322608</longitude>
+						<latitude>28.6544020607277</latitude>
+						<altitude>3507</altitude>
+						<heading>89.9901823104194</heading>
+						<tilt>63.4544885984997</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.2900865053741</longitude>
+						<latitude>28.6671069267473</latitude>
+						<altitude>3507</altitude>
+						<heading>134.993055595073</heading>
+						<tilt>63.5093071785414</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.3045654</longitude>
+						<latitude>28.6723699056824</latitude>
+						<altitude>3507</altitude>
+						<heading>180</heading>
+						<tilt>63.4973851854268</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.3190442946259</longitude>
+						<latitude>28.6671069267473</latitude>
+						<altitude>3507</altitude>
+						<heading>225.00694440494</heading>
+						<tilt>63.5093071785411</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.3250391677392</longitude>
+						<latitude>28.6544020607277</latitude>
+						<altitude>3507</altitude>
+						<heading>270.009817689581</heading>
+						<tilt>63.4544885984855</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.319040786425</longitude>
+						<latitude>28.6416987339803</latitude>
+						<altitude>3507</altitude>
+						<heading>315.006939905795</heading>
+						<tilt>63.2813755905217</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3.75</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>35.3045654</longitude>
+						<latitude>28.6364372943176</latitude>
+						<altitude>3507</altitude>
+						<heading>0</heading>
+						<tilt>63.1742038080801</tilt>
+						<roll>0</roll>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+			</gx:Playlist>
+		</gx:Tour>
+		<Placemark>
+			<name>Antartica Wall?</name>
+			<styleUrl>#failed2</styleUrl>
+			<Point>
+				<coordinates>-87.98666666666666,-82.05694444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bethabara</name>
+			<styleUrl>#failed12</styleUrl>
+			<Point>
+				<coordinates>35.550301,31.83710900000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kasikasima Mountain</name>
+			<styleUrl>#failed8</styleUrl>
+			<Point>
+				<coordinates>-55.411111,2.980556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belterra</name>
+			<description>https://en.wikipedia.org/wiki/Belterra,_Par%C3%A1
+
+Amongst soil scientists, Belterra is famous for the underlying fertile, anthropogenic soil of &apos;Terra preta&apos;, which might have been amongst the criteria for the selection of this site for the plantation. While Terra Preta soil patterns occur all over the Brazilian lowland, this site is extremely well developed and also scientifically surveyed and documented[1]
+
+14C analyses based on Terra Preta ceramic artefacts found in Belterra showed, that this area was populated and cultivated by the indigenous population in an intensive way at least since 500 B.C.</description>
+			<styleUrl>#failed3</styleUrl>
+			<Point>
+				<coordinates>-54.936944,-2.635833,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
