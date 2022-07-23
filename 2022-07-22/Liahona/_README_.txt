@@ -86,6 +86,11 @@ DALLIN H OAKS ... fatherless with a widow for a mother
 
 sexual revolutin in the 1960s ... wake them up ... on this one thing, they go the other way ...
 
+https://www.blueletterbible.org/lexicon/h338/kjv/wlc/0-1/
+https://www.blueletterbible.org/kjv/pro/27/4/t_conc_655004
 
-
-
+FOREST ... 
+https://www.blueletterbible.org/kjv/hos/2/12/t_concir_864012
+a forest,
+לְ / יַעַר
+lᵊyaʿar
